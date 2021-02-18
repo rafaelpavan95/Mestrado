@@ -13,6 +13,13 @@ O Projeto conta com apoio financeiro do Conselho Nacional de Desenvolvimento Cie
 
 # Descrição das Pastas:
 
+
+##  REPORTS
+
+
+  - Pasta que contém os relatórios desenvolvidos durante o período de mestrado.
+
+
 ##  FUNCTIONS
 
 
