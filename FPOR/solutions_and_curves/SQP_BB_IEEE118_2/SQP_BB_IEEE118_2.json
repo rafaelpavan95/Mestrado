@@ -1,0 +1,40 @@
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:-11 Tm:      3.02 NLPi:  115 Dpth:    0 Lvs:    0 Obj:  0.00E+00 Gap:       NaN
+ Warning: no more possible trial points and no integer solution
+ Maximum iterations
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  3.0411 sec
+ Objective      :  0.
+ Unsuccessful with error code  0
+ ---------------------------------------------------
+ 
+ Creating file: infeasibilities.txt
+ Use command apm_get(server,app,'infeasibilities.txt') to retrieve file
+ @error: Solution Not Found
+

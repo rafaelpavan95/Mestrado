@@ -1,0 +1,1041 @@
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      1.76 NLPi:   46 Dpth:    0 Lvs:    3 Obj:  1.16E+00 Gap:       NaN
+Iter:     2 I:-11 Tm:      0.23 NLPi:   17 Dpth:    1 Lvs:    2 Obj:  1.16E+00 Gap:       NaN
+Iter:     3 I:  0 Tm:      0.20 NLPi:   14 Dpth:    1 Lvs:    4 Obj:  1.16E+00 Gap:       NaN
+Iter:     4 I:  0 Tm:      0.56 NLPi:   39 Dpth:    1 Lvs:    6 Obj:  1.16E+00 Gap:       NaN
+--Integer Solution:   1.16E+00 Lowest Leaf:   1.16E+00 Gap:   5.90E-06
+Iter:     5 I:  0 Tm:      0.46 NLPi:   34 Dpth:    2 Lvs:    6 Obj:  1.16E+00 Gap:  5.90E-06
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  3.2403 sec
+ Objective      :  1.1578530837992649
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      2.36 NLPi:   63 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+Iter:     2 I:-11 Tm:      0.56 NLPi:   42 Dpth:    1 Lvs:    2 Obj:  1.15E+00 Gap:       NaN
+Iter:     3 I:  0 Tm:      0.31 NLPi:   23 Dpth:    1 Lvs:    4 Obj:  1.15E+00 Gap:       NaN
+Iter:     4 I:  0 Tm:      1.06 NLPi:   74 Dpth:    1 Lvs:    6 Obj:  1.15E+00 Gap:       NaN
+Iter:     5 I:  0 Tm:      0.92 NLPi:   67 Dpth:    2 Lvs:    7 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   1.86E-04
+Iter:     6 I:  0 Tm:      0.25 NLPi:   18 Dpth:    3 Lvs:    7 Obj:  1.15E+00 Gap:  1.86E-04
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  5.479699999999999 sec
+ Objective      :  1.1518514797366242
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      2.93 NLPi:  142 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   3.23E-05
+Iter:     2 I:  0 Tm:      0.64 NLPi:   46 Dpth:    1 Lvs:    3 Obj:  1.15E+00 Gap:  3.23E-05
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  3.5874 sec
+ Objective      :  1.1513187126145035
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      1.80 NLPi:   40 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   4.06E-05
+Iter:     2 I:  0 Tm:      0.48 NLPi:   36 Dpth:    1 Lvs:    3 Obj:  1.15E+00 Gap:  4.06E-05
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  2.3244 sec
+ Objective      :  1.1540559073225063
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      2.18 NLPi:   53 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+Iter:     2 I:  0 Tm:      0.37 NLPi:   29 Dpth:    1 Lvs:    4 Obj:  1.15E+00 Gap:       NaN
+Iter:     3 I:-11 Tm:      0.22 NLPi:   16 Dpth:    1 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+Iter:     4 I:  0 Tm:      0.42 NLPi:   31 Dpth:    1 Lvs:    5 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   8.90E-07
+Iter:     5 I:  0 Tm:      0.34 NLPi:   25 Dpth:    2 Lvs:    5 Obj:  1.15E+00 Gap:  8.90E-07
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  3.5475 sec
+ Objective      :  1.153589561980503
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      3.06 NLPi:  124 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+Iter:     2 I:  0 Tm:      0.33 NLPi:   22 Dpth:    1 Lvs:    4 Obj:  1.15E+00 Gap:       NaN
+Iter:     3 I:  0 Tm:      0.78 NLPi:   55 Dpth:    1 Lvs:    6 Obj:  1.15E+00 Gap:       NaN
+Iter:     4 I:  0 Tm:      0.95 NLPi:   67 Dpth:    1 Lvs:    8 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   9.74E-06
+Iter:     5 I:  0 Tm:      0.63 NLPi:   46 Dpth:    2 Lvs:    8 Obj:  1.15E+00 Gap:  9.74E-06
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  5.7673 sec
+ Objective      :  1.1537549883841598
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      1.86 NLPi:   56 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+Iter:     2 I:-11 Tm:      0.29 NLPi:   21 Dpth:    1 Lvs:    2 Obj:  1.15E+00 Gap:       NaN
+Iter:     3 I:  0 Tm:      0.30 NLPi:   20 Dpth:    1 Lvs:    4 Obj:  1.15E+00 Gap:       NaN
+Iter:     4 I:-11 Tm:      0.25 NLPi:   18 Dpth:    1 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+Iter:     5 I:  0 Tm:      0.39 NLPi:   29 Dpth:    2 Lvs:    4 Obj:  1.15E+00 Gap:       NaN
+Iter:     6 I:  0 Tm:      0.47 NLPi:   37 Dpth:    2 Lvs:    6 Obj:  1.15E+00 Gap:       NaN
+Iter:     7 I:  0 Tm:      0.68 NLPi:   50 Dpth:    2 Lvs:    8 Obj:  1.15E+00 Gap:       NaN
+Iter:     8 I:  0 Tm:      0.32 NLPi:   23 Dpth:    3 Lvs:    9 Obj:  1.15E+00 Gap:       NaN
+Iter:     9 I:  0 Tm:      0.29 NLPi:   21 Dpth:    3 Lvs:   11 Obj:  1.15E+00 Gap:       NaN
+Iter:    10 I:  0 Tm:      0.15 NLPi:   11 Dpth:    3 Lvs:   13 Obj:  1.15E+00 Gap:       NaN
+Iter:    11 I:-11 Tm:      0.18 NLPi:   13 Dpth:    3 Lvs:   12 Obj:  1.15E+00 Gap:       NaN
+Iter:    12 I:  0 Tm:      0.42 NLPi:   32 Dpth:    3 Lvs:   14 Obj:  1.15E+00 Gap:       NaN
+Iter:    13 I:  0 Tm:      0.30 NLPi:   23 Dpth:    3 Lvs:   16 Obj:  1.15E+00 Gap:       NaN
+Iter:    14 I:  0 Tm:      0.22 NLPi:   16 Dpth:    4 Lvs:   17 Obj:  1.15E+00 Gap:       NaN
+Iter:    15 I:  0 Tm:      0.24 NLPi:   17 Dpth:    4 Lvs:   19 Obj:  1.15E+00 Gap:       NaN
+Iter:    16 I:  0 Tm:      0.38 NLPi:   29 Dpth:    4 Lvs:   20 Obj:  1.15E+00 Gap:       NaN
+Iter:    17 I:  0 Tm:      0.22 NLPi:   15 Dpth:    5 Lvs:   22 Obj:  1.15E+00 Gap:       NaN
+Iter:    18 I:  0 Tm:      0.77 NLPi:   59 Dpth:    5 Lvs:   23 Obj:  1.15E+00 Gap:       NaN
+Iter:    19 I:  0 Tm:      0.67 NLPi:   50 Dpth:    5 Lvs:   24 Obj:  1.15E+00 Gap:       NaN
+Iter:    20 I:  0 Tm:      0.19 NLPi:   14 Dpth:    5 Lvs:   25 Obj:  1.15E+00 Gap:       NaN
+Iter:    21 I:  0 Tm:      0.22 NLPi:   16 Dpth:    5 Lvs:   26 Obj:  1.15E+00 Gap:       NaN
+Iter:    22 I:  0 Tm:      0.36 NLPi:   25 Dpth:    4 Lvs:   27 Obj:  1.15E+00 Gap:       NaN
+Iter:    23 I:  0 Tm:      0.18 NLPi:   13 Dpth:    4 Lvs:   28 Obj:  1.15E+00 Gap:       NaN
+Iter:    24 I:  0 Tm:      0.15 NLPi:   11 Dpth:    4 Lvs:   29 Obj:  1.15E+00 Gap:       NaN
+Iter:    25 I:  0 Tm:      0.57 NLPi:   41 Dpth:    6 Lvs:   30 Obj:  1.15E+00 Gap:       NaN
+Iter:    26 I:  0 Tm:      0.51 NLPi:   38 Dpth:    6 Lvs:   31 Obj:  1.15E+00 Gap:       NaN
+Iter:    27 I:  0 Tm:      0.36 NLPi:   26 Dpth:    5 Lvs:   32 Obj:  1.15E+00 Gap:       NaN
+Iter:    28 I:  0 Tm:      0.28 NLPi:   20 Dpth:    5 Lvs:   33 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   5.03E-07
+Iter:    29 I:  0 Tm:      0.31 NLPi:   19 Dpth:    6 Lvs:   33 Obj:  1.15E+00 Gap:  5.03E-07
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  11.5352 sec
+ Objective      :  1.153892433252118
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      2.57 NLPi:   69 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+Iter:     2 I:  0 Tm:      1.63 NLPi:  109 Dpth:    1 Lvs:    4 Obj:  1.15E+00 Gap:       NaN
+Iter:     3 I:  0 Tm:      0.36 NLPi:   26 Dpth:    1 Lvs:    6 Obj:  1.15E+00 Gap:       NaN
+Iter:     4 I:  0 Tm:      1.01 NLPi:   72 Dpth:    1 Lvs:    8 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   1.69E-07
+Iter:     5 I:  0 Tm:      0.29 NLPi:   19 Dpth:    2 Lvs:    8 Obj:  1.15E+00 Gap:  1.69E-07
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  5.885499999999999 sec
+ Objective      :  1.1511085211701406
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      1.77 NLPi:   42 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+Iter:     2 I:-11 Tm:      0.49 NLPi:   32 Dpth:    1 Lvs:    2 Obj:  1.15E+00 Gap:       NaN
+Iter:     3 I:  0 Tm:      0.73 NLPi:   50 Dpth:    1 Lvs:    4 Obj:  1.15E+00 Gap:       NaN
+Iter:     4 I:  0 Tm:      0.46 NLPi:   34 Dpth:    1 Lvs:    6 Obj:  1.15E+00 Gap:       NaN
+Iter:     5 I:  0 Tm:      0.66 NLPi:   44 Dpth:    2 Lvs:    8 Obj:  1.15E+00 Gap:       NaN
+Iter:     6 I:-11 Tm:      0.37 NLPi:   27 Dpth:    2 Lvs:    7 Obj:  1.15E+00 Gap:       NaN
+Iter:     7 I:  0 Tm:      0.80 NLPi:   59 Dpth:    2 Lvs:    9 Obj:  1.15E+00 Gap:       NaN
+Iter:     8 I:  0 Tm:      0.63 NLPi:   50 Dpth:    3 Lvs:   10 Obj:  1.15E+00 Gap:       NaN
+Iter:     9 I:  0 Tm:      0.42 NLPi:   32 Dpth:    3 Lvs:   12 Obj:  1.15E+00 Gap:       NaN
+Iter:    10 I:  0 Tm:      0.74 NLPi:   50 Dpth:    3 Lvs:   14 Obj:  1.15E+00 Gap:       NaN
+Iter:    11 I:  0 Tm:      0.23 NLPi:   17 Dpth:    3 Lvs:   16 Obj:  1.15E+00 Gap:       NaN
+Iter:    12 I:  0 Tm:      0.72 NLPi:   50 Dpth:    4 Lvs:   18 Obj:  1.15E+00 Gap:       NaN
+Iter:    13 I:  0 Tm:      0.23 NLPi:   17 Dpth:    4 Lvs:   19 Obj:  1.15E+00 Gap:       NaN
+Iter:    14 I:  0 Tm:      0.41 NLPi:   29 Dpth:    4 Lvs:   20 Obj:  1.15E+00 Gap:       NaN
+Iter:    15 I:-11 Tm:      0.84 NLPi:   58 Dpth:    5 Lvs:   19 Obj:  1.15E+00 Gap:       NaN
+Iter:    16 I:  0 Tm:      0.25 NLPi:   19 Dpth:    5 Lvs:   21 Obj:  1.15E+00 Gap:       NaN
+Iter:    17 I:  0 Tm:      0.74 NLPi:   56 Dpth:    5 Lvs:   22 Obj:  1.15E+00 Gap:       NaN
+Iter:    18 I:  0 Tm:      0.62 NLPi:   46 Dpth:    3 Lvs:   23 Obj:  1.15E+00 Gap:       NaN
+Iter:    19 I:  0 Tm:      0.36 NLPi:   28 Dpth:    3 Lvs:   24 Obj:  1.15E+00 Gap:       NaN
+Iter:    20 I:  0 Tm:      0.14 NLPi:    9 Dpth:    4 Lvs:   25 Obj:  1.15E+00 Gap:       NaN
+Iter:    21 I:-11 Tm:      0.24 NLPi:   18 Dpth:    4 Lvs:   24 Obj:  1.15E+00 Gap:       NaN
+Iter:    22 I:  0 Tm:      0.23 NLPi:   16 Dpth:    4 Lvs:   26 Obj:  1.15E+00 Gap:       NaN
+Iter:    23 I:  0 Tm:      0.51 NLPi:   38 Dpth:    5 Lvs:   28 Obj:  1.15E+00 Gap:       NaN
+Iter:    24 I:  0 Tm:      0.28 NLPi:   18 Dpth:    5 Lvs:   29 Obj:  1.15E+00 Gap:       NaN
+Iter:    25 I:  0 Tm:      0.63 NLPi:   47 Dpth:    5 Lvs:   31 Obj:  1.15E+00 Gap:       NaN
+Iter:    26 I:  0 Tm:      0.34 NLPi:   24 Dpth:    6 Lvs:   32 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   4.12E-05
+Iter:    27 I:  0 Tm:      0.60 NLPi:   38 Dpth:    6 Lvs:   32 Obj:  1.15E+00 Gap:  4.12E-05
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  14.454799999999999 sec
+ Objective      :  1.154067479792523
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:-11 Tm:      2.21 NLPi:   72 Dpth:    0 Lvs:    0 Obj:  0.00E+00 Gap:       NaN
+ Warning: no more possible trial points and no integer solution
+ Maximum iterations
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  2.2270000000000003 sec
+ Objective      :  0.
+ Unsuccessful with error code  0
+ ---------------------------------------------------
+ 
+ Creating file: infeasibilities.txt
+ Use command apm_get(server,app,'infeasibilities.txt') to retrieve file
+ @error: Solution Not Found
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:-11 Tm:      2.03 NLPi:   53 Dpth:    0 Lvs:    0 Obj:  0.00E+00 Gap:       NaN
+ Warning: no more possible trial points and no integer solution
+ Maximum iterations
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  2.0534999999999997 sec
+ Objective      :  0.
+ Unsuccessful with error code  0
+ ---------------------------------------------------
+ 
+ Creating file: infeasibilities.txt
+ Use command apm_get(server,app,'infeasibilities.txt') to retrieve file
+ @error: Solution Not Found
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      2.46 NLPi:   87 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+Iter:     2 I:  0 Tm:      0.53 NLPi:   37 Dpth:    1 Lvs:    4 Obj:  1.15E+00 Gap:       NaN
+Iter:     3 I:  0 Tm:      0.33 NLPi:   22 Dpth:    1 Lvs:    6 Obj:  1.15E+00 Gap:       NaN
+Iter:     4 I:  0 Tm:      0.73 NLPi:   50 Dpth:    1 Lvs:    8 Obj:  1.15E+00 Gap:       NaN
+Iter:     5 I:  0 Tm:      0.47 NLPi:   31 Dpth:    2 Lvs:    9 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   3.96E-05
+Iter:     6 I:  0 Tm:      0.23 NLPi:   17 Dpth:    3 Lvs:    9 Obj:  1.15E+00 Gap:  3.96E-05
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  4.7964 sec
+ Objective      :  1.1531011785345602
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      1.68 NLPi:   55 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   1.77E-05
+Iter:     2 I:  0 Tm:      0.35 NLPi:   28 Dpth:    1 Lvs:    3 Obj:  1.15E+00 Gap:  1.77E-05
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  2.0526 sec
+ Objective      :  1.1526892361555423
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:-11 Tm:      1.93 NLPi:   59 Dpth:    0 Lvs:    0 Obj:  0.00E+00 Gap:       NaN
+ Warning: no more possible trial points and no integer solution
+ Maximum iterations
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  1.9468000000000005 sec
+ Objective      :  0.
+ Unsuccessful with error code  0
+ ---------------------------------------------------
+ 
+ Creating file: infeasibilities.txt
+ Use command apm_get(server,app,'infeasibilities.txt') to retrieve file
+ @error: Solution Not Found
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      2.33 NLPi:   75 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   2.68E-05
+Iter:     2 I:  0 Tm:      0.27 NLPi:   21 Dpth:    1 Lvs:    3 Obj:  1.15E+00 Gap:  2.68E-05
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  2.6204 sec
+ Objective      :  1.1523159995545629
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      5.41 NLPi:  305 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   1.36E-05
+Iter:     2 I:  0 Tm:      0.27 NLPi:   20 Dpth:    1 Lvs:    3 Obj:  1.15E+00 Gap:  1.36E-05
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  5.7027 sec
+ Objective      :  1.1519815923275332
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:-11 Tm:      2.26 NLPi:  120 Dpth:    0 Lvs:    0 Obj:  0.00E+00 Gap:       NaN
+ Warning: no more possible trial points and no integer solution
+ Maximum iterations
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  2.2879 sec
+ Objective      :  0.
+ Unsuccessful with error code  0
+ ---------------------------------------------------
+ 
+ Creating file: infeasibilities.txt
+ Use command apm_get(server,app,'infeasibilities.txt') to retrieve file
+ @error: Solution Not Found
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      2.22 NLPi:   91 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   2.15E-05
+Iter:     2 I:  0 Tm:      0.23 NLPi:   18 Dpth:    1 Lvs:    3 Obj:  1.15E+00 Gap:  2.15E-05
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  2.4684 sec
+ Objective      :  1.1519846258762487
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:-11 Tm:      2.12 NLPi:   68 Dpth:    0 Lvs:    0 Obj:  0.00E+00 Gap:       NaN
+ Warning: no more possible trial points and no integer solution
+ Maximum iterations
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  2.1382999999999996 sec
+ Objective      :  0.
+ Unsuccessful with error code  0
+ ---------------------------------------------------
+ 
+ Creating file: infeasibilities.txt
+ Use command apm_get(server,app,'infeasibilities.txt') to retrieve file
+ @error: Solution Not Found
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      2.31 NLPi:   95 Dpth:    0 Lvs:    3 Obj:  1.16E+00 Gap:       NaN
+--Integer Solution:   1.16E+00 Lowest Leaf:   1.16E+00 Gap:   6.90E-06
+Iter:     2 I:  0 Tm:      1.15 NLPi:   93 Dpth:    1 Lvs:    3 Obj:  1.16E+00 Gap:  6.90E-06
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  3.4748 sec
+ Objective      :  1.1556666569308294
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      2.49 NLPi:  107 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   3.95E-05
+Iter:     2 I:  0 Tm:      0.71 NLPi:   55 Dpth:    1 Lvs:    3 Obj:  1.15E+00 Gap:  3.95E-05
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  3.2243999999999997 sec
+ Objective      :  1.152898772693899
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      1.68 NLPi:   41 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+Iter:     2 I:  0 Tm:      0.35 NLPi:   28 Dpth:    1 Lvs:    4 Obj:  1.15E+00 Gap:       NaN
+Iter:     3 I:  0 Tm:      0.35 NLPi:   27 Dpth:    1 Lvs:    6 Obj:  1.15E+00 Gap:       NaN
+Iter:     4 I:  0 Tm:      0.96 NLPi:   76 Dpth:    1 Lvs:    8 Obj:  1.15E+00 Gap:       NaN
+Iter:     5 I:-11 Tm:      0.36 NLPi:   27 Dpth:    2 Lvs:    7 Obj:  1.15E+00 Gap:       NaN
+Iter:     6 I:  0 Tm:      1.05 NLPi:   80 Dpth:    2 Lvs:    9 Obj:  1.15E+00 Gap:       NaN
+Iter:     7 I:  0 Tm:      0.64 NLPi:   50 Dpth:    2 Lvs:   11 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   3.16E-05
+Iter:     8 I:  0 Tm:      0.56 NLPi:   46 Dpth:    2 Lvs:   11 Obj:  1.15E+00 Gap:  3.16E-05
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  5.9739 sec
+ Objective      :  1.1513366514240722
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      1.43 NLPi:   35 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   1.52E-05
+Iter:     2 I:  0 Tm:      0.15 NLPi:   11 Dpth:    1 Lvs:    3 Obj:  1.15E+00 Gap:  1.52E-05
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  1.5947999999999998 sec
+ Objective      :  1.1523221426503516
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      2.35 NLPi:   99 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+Iter:     2 I:  0 Tm:      0.17 NLPi:   13 Dpth:    1 Lvs:    4 Obj:  1.15E+00 Gap:       NaN
+Iter:     3 I:-11 Tm:      1.59 NLPi:  124 Dpth:    1 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+Iter:     4 I:-11 Tm:      1.32 NLPi:  102 Dpth:    1 Lvs:    2 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   0.00E+00
+Iter:     5 I:  0 Tm:      0.47 NLPi:   39 Dpth:    2 Lvs:    2 Obj:  1.15E+00 Gap:  0.00E+00
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  5.924099999999999 sec
+ Objective      :  1.1513226751256982
+ Successful solution
+ ---------------------------------------------------
+ 
+
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  500
+   Intermediates:  0
+   Connections  :  187
+   Equations    :  423
+   Residuals    :  423
+ 
+ Number of state variables:    500
+ Number of total equations: -  423
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      1.88 NLPi:   52 Dpth:    0 Lvs:    3 Obj:  1.15E+00 Gap:       NaN
+--Integer Solution:   1.15E+00 Lowest Leaf:   1.15E+00 Gap:   1.71E-04
+Iter:     2 I:  0 Tm:      0.41 NLPi:   27 Dpth:    1 Lvs:    3 Obj:  1.15E+00 Gap:  1.71E-04
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  2.3068999999999997 sec
+ Objective      :  1.1515503839825343
+ Successful solution
+ ---------------------------------------------------
+ 
+

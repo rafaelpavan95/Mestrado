@@ -1,0 +1,662 @@
+ ----------------------------------------------------------------
+ APMonitor, Version 1.0.0
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :  1
+   Constants    :  0
+   Variables    :  1432
+   Intermediates:  0
+   Connections  :  412
+   Equations    :  1012
+   Residuals    :  1012
+
+ Number of state variables:    1432
+ Number of total equations: -  1012
+ Number of slack variables: -  0
+ ---------------------------------------
+ Degrees of freedom       :    420
+
+ Number of bound variables: -  231
+
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      9.05 NLPi:  115 Dpth:    0 Lvs:    3 Obj:  3.41E+00 Gap:       NaN
+Iter:     2 I:  0 Tm:      1.26 NLPi:   21 Dpth:    1 Lvs:    5 Obj:  3.42E+00 Gap:       NaN
+Iter:     3 I:  0 Tm:      1.05 NLPi:   20 Dpth:    2 Lvs:    7 Obj:  3.42E+00 Gap:       NaN
+Iter:     4 I:  0 Tm:      0.73 NLPi:   10 Dpth:    3 Lvs:    9 Obj:  3.42E+00 Gap:       NaN
+Iter:     5 I:  0 Tm:      1.03 NLPi:   17 Dpth:    4 Lvs:   11 Obj:  3.42E+00 Gap:       NaN
+Iter:     6 I:  0 Tm:      1.39 NLPi:   16 Dpth:    5 Lvs:   13 Obj:  3.42E+00 Gap:       NaN
+Iter:     7 I:  0 Tm:      0.80 NLPi:   11 Dpth:    6 Lvs:   15 Obj:  3.42E+00 Gap:       NaN
+Iter:     8 I:  0 Tm:      2.02 NLPi:   17 Dpth:    7 Lvs:   17 Obj:  3.42E+00 Gap:       NaN
+Iter:     9 I:  0 Tm:      3.44 NLPi:   53 Dpth:    8 Lvs:   19 Obj:  3.42E+00 Gap:       NaN
+Iter:    10 I:  0 Tm:      1.53 NLPi:   14 Dpth:    9 Lvs:   21 Obj:  3.42E+00 Gap:       NaN
+Iter:    11 I:  0 Tm:      2.41 NLPi:   33 Dpth:   10 Lvs:   23 Obj:  3.42E+00 Gap:       NaN
+Iter:    12 I:  0 Tm:      1.16 NLPi:   25 Dpth:   11 Lvs:   25 Obj:  3.42E+00 Gap:       NaN
+Iter:    13 I:  0 Tm:      2.48 NLPi:   34 Dpth:   12 Lvs:   27 Obj:  3.42E+00 Gap:       NaN
+Iter:    14 I:  0 Tm:      1.26 NLPi:   25 Dpth:   13 Lvs:   29 Obj:  3.42E+00 Gap:       NaN
+Iter:    15 I:  0 Tm:      1.48 NLPi:   27 Dpth:   14 Lvs:   31 Obj:  3.42E+00 Gap:       NaN
+Iter:    16 I: -1 Tm:      1.78 NLPi:   19 Dpth:   15 Lvs:   30 Obj:  3.42E+00 Gap:       NaN
+Iter:    17 I:  0 Tm:      3.04 NLPi:   51 Dpth:   15 Lvs:   32 Obj:  3.42E+00 Gap:       NaN
+Iter:    18 I: -1 Tm:      1.14 NLPi:   17 Dpth:   16 Lvs:   31 Obj:  3.42E+00 Gap:       NaN
+Iter:    19 I:  0 Tm:      1.40 NLPi:   21 Dpth:   16 Lvs:   33 Obj:  3.42E+00 Gap:       NaN
+Iter:    20 I: -1 Tm:      0.83 NLPi:   11 Dpth:   17 Lvs:   32 Obj:  3.42E+00 Gap:       NaN
+Iter:    21 I:  0 Tm:      2.94 NLPi:   43 Dpth:   17 Lvs:   34 Obj:  3.42E+00 Gap:       NaN
+Iter:    22 I: -1 Tm:      0.88 NLPi:   12 Dpth:   18 Lvs:   33 Obj:  3.42E+00 Gap:       NaN
+Iter:    23 I:  0 Tm:      1.81 NLPi:   28 Dpth:   18 Lvs:   35 Obj:  3.42E+00 Gap:       NaN
+Iter:    24 I: -1 Tm:      1.46 NLPi:   14 Dpth:   19 Lvs:   34 Obj:  3.42E+00 Gap:       NaN
+Iter:    25 I:  0 Tm:      1.48 NLPi:   21 Dpth:   19 Lvs:   36 Obj:  3.42E+00 Gap:       NaN
+Iter:    26 I: -1 Tm:      0.76 NLPi:   12 Dpth:   20 Lvs:   35 Obj:  3.42E+00 Gap:       NaN
+Iter:    27 I:  0 Tm:      1.75 NLPi:   19 Dpth:   20 Lvs:   37 Obj:  3.42E+00 Gap:       NaN
+Iter:    28 I: -1 Tm:      0.82 NLPi:   13 Dpth:   21 Lvs:   36 Obj:  3.42E+00 Gap:       NaN
+Iter:    29 I:  0 Tm:      1.80 NLPi:   23 Dpth:   21 Lvs:   38 Obj:  3.42E+00 Gap:       NaN
+Iter:    30 I: -1 Tm:      0.85 NLPi:   14 Dpth:   22 Lvs:   37 Obj:  3.42E+00 Gap:       NaN
+Iter:    31 I:  0 Tm:      2.16 NLPi:   27 Dpth:   22 Lvs:   39 Obj:  3.42E+00 Gap:       NaN
+Iter:    32 I: -1 Tm:      1.29 NLPi:   11 Dpth:   23 Lvs:   38 Obj:  3.42E+00 Gap:       NaN
+Iter:    33 I:  0 Tm:      3.39 NLPi:   68 Dpth:   23 Lvs:   40 Obj:  3.42E+00 Gap:       NaN
+Iter:    34 I: -1 Tm:      0.86 NLPi:   16 Dpth:   24 Lvs:   39 Obj:  3.42E+00 Gap:       NaN
+Iter:    35 I:  0 Tm:      1.98 NLPi:   24 Dpth:   24 Lvs:   41 Obj:  3.42E+00 Gap:       NaN
+Iter:    36 I: -1 Tm:      0.75 NLPi:   12 Dpth:   25 Lvs:   40 Obj:  3.42E+00 Gap:       NaN
+Iter:    37 I:  0 Tm:      2.21 NLPi:   30 Dpth:   25 Lvs:   42 Obj:  3.42E+00 Gap:       NaN
+Iter:    38 I: -1 Tm:      0.84 NLPi:   15 Dpth:   26 Lvs:   41 Obj:  3.42E+00 Gap:       NaN
+Iter:    39 I:  0 Tm:      2.07 NLPi:   27 Dpth:   26 Lvs:   43 Obj:  3.42E+00 Gap:       NaN
+Iter:    40 I: -1 Tm:      0.95 NLPi:   19 Dpth:   27 Lvs:   42 Obj:  3.42E+00 Gap:       NaN
+Iter:    41 I:  0 Tm:      2.09 NLPi:   37 Dpth:   27 Lvs:   44 Obj:  3.42E+00 Gap:       NaN
+Iter:    42 I: -1 Tm:      1.09 NLPi:   21 Dpth:   28 Lvs:   43 Obj:  3.42E+00 Gap:       NaN
+Iter:    43 I:  0 Tm:      2.63 NLPi:   31 Dpth:   28 Lvs:   45 Obj:  3.42E+00 Gap:       NaN
+Iter:    44 I: -1 Tm:      1.28 NLPi:   13 Dpth:   29 Lvs:   44 Obj:  3.42E+00 Gap:       NaN
+Iter:    45 I:  0 Tm:      1.95 NLPi:   28 Dpth:   29 Lvs:   46 Obj:  3.42E+00 Gap:       NaN
+Iter:    46 I: -1 Tm:      0.64 NLPi:   10 Dpth:   30 Lvs:   45 Obj:  3.42E+00 Gap:       NaN
+Iter:    47 I:  0 Tm:      1.66 NLPi:   21 Dpth:   30 Lvs:   47 Obj:  3.42E+00 Gap:       NaN
+Iter:    48 I: -1 Tm:      1.01 NLPi:   16 Dpth:   31 Lvs:   46 Obj:  3.42E+00 Gap:       NaN
+Iter:    49 I:  0 Tm:      1.93 NLPi:   28 Dpth:   31 Lvs:   48 Obj:  3.42E+00 Gap:       NaN
+Iter:    50 I: -1 Tm:      1.17 NLPi:   11 Dpth:   32 Lvs:   47 Obj:  3.42E+00 Gap:       NaN
+Iter:    51 I:  0 Tm:      2.27 NLPi:   25 Dpth:   32 Lvs:   49 Obj:  3.42E+00 Gap:       NaN
+Iter:    52 I: -1 Tm:      2.42 NLPi:   43 Dpth:   33 Lvs:   48 Obj:  3.42E+00 Gap:       NaN
+Iter:    53 I:-11 Tm:      1.78 NLPi:   25 Dpth:   33 Lvs:   47 Obj:  3.42E+00 Gap:       NaN
+Iter:    54 I:  0 Tm:      3.02 NLPi:   52 Dpth:   33 Lvs:   49 Obj:  3.42E+00 Gap:       NaN
+Iter:    55 I: -1 Tm:      0.79 NLPi:   15 Dpth:   34 Lvs:   48 Obj:  3.42E+00 Gap:       NaN
+Iter:    56 I:  0 Tm:      3.74 NLPi:   48 Dpth:   34 Lvs:   50 Obj:  3.42E+00 Gap:       NaN
+Iter:    57 I:  0 Tm:      1.30 NLPi:   21 Dpth:   35 Lvs:   52 Obj:  3.42E+00 Gap:       NaN
+Iter:    58 I:  0 Tm:      1.86 NLPi:   33 Dpth:   36 Lvs:   54 Obj:  3.42E+00 Gap:       NaN
+Iter:    59 I:  0 Tm:      1.13 NLPi:   20 Dpth:   37 Lvs:   56 Obj:  3.43E+00 Gap:       NaN
+Iter:    60 I:  0 Tm:      1.72 NLPi:   42 Dpth:   38 Lvs:   58 Obj:  3.43E+00 Gap:       NaN
+Iter:    61 I:  0 Tm:      1.13 NLPi:   21 Dpth:   39 Lvs:   60 Obj:  3.43E+00 Gap:       NaN
+Iter:    62 I:  0 Tm:      2.53 NLPi:   33 Dpth:   40 Lvs:   62 Obj:  3.43E+00 Gap:       NaN
+Iter:    63 I:  0 Tm:      0.99 NLPi:   22 Dpth:   41 Lvs:   64 Obj:  3.43E+00 Gap:       NaN
+Iter:    64 I:  0 Tm:      3.34 NLPi:   63 Dpth:   42 Lvs:   66 Obj:  3.43E+00 Gap:       NaN
+Iter:    65 I:  0 Tm:      0.90 NLPi:   18 Dpth:   43 Lvs:   68 Obj:  3.43E+00 Gap:       NaN
+Iter:    66 I:  0 Tm:      2.04 NLPi:   24 Dpth:   44 Lvs:   70 Obj:  3.43E+00 Gap:       NaN
+Iter:    67 I:  0 Tm:      0.87 NLPi:   18 Dpth:   45 Lvs:   72 Obj:  3.43E+00 Gap:       NaN
+Iter:    68 I:  0 Tm:      1.51 NLPi:   12 Dpth:   46 Lvs:   74 Obj:  3.43E+00 Gap:       NaN
+Iter:    69 I:  0 Tm:      1.19 NLPi:   17 Dpth:   47 Lvs:   76 Obj:  3.43E+00 Gap:       NaN
+Iter:    70 I:  0 Tm:      2.00 NLPi:   29 Dpth:   48 Lvs:   78 Obj:  3.43E+00 Gap:       NaN
+Iter:    71 I:  0 Tm:      0.86 NLPi:   12 Dpth:   49 Lvs:   79 Obj:  3.43E+00 Gap:       NaN
+Iter:    72 I:-11 Tm:      2.67 NLPi:   40 Dpth:   50 Lvs:   78 Obj:  3.43E+00 Gap:       NaN
+Iter:    73 I:  0 Tm:      2.34 NLPi:   21 Dpth:   50 Lvs:   80 Obj:  3.43E+00 Gap:       NaN
+Iter:    74 I:  0 Tm:      1.54 NLPi:   12 Dpth:   51 Lvs:   82 Obj:  3.43E+00 Gap:       NaN
+Iter:    75 I:  0 Tm:      2.06 NLPi:   35 Dpth:   52 Lvs:   84 Obj:  3.43E+00 Gap:       NaN
+Iter:    76 I:-11 Tm:      1.56 NLPi:   12 Dpth:   53 Lvs:   83 Obj:  3.43E+00 Gap:       NaN
+Iter:    77 I:  0 Tm:      2.26 NLPi:   30 Dpth:   53 Lvs:   85 Obj:  3.43E+00 Gap:       NaN
+Iter:    78 I:  0 Tm:      2.77 NLPi:   31 Dpth:   54 Lvs:   87 Obj:  3.43E+00 Gap:       NaN
+Iter:    79 I:  0 Tm:      1.06 NLPi:   24 Dpth:   55 Lvs:   89 Obj:  3.43E+00 Gap:       NaN
+Iter:    80 I:  0 Tm:      1.72 NLPi:   14 Dpth:   56 Lvs:   91 Obj:  3.43E+00 Gap:       NaN
+Iter:    81 I:  0 Tm:      0.83 NLPi:   13 Dpth:   57 Lvs:   93 Obj:  3.43E+00 Gap:       NaN
+Iter:    82 I:  0 Tm:      3.28 NLPi:   56 Dpth:   58 Lvs:   95 Obj:  3.43E+00 Gap:       NaN
+Iter:    83 I:  0 Tm:      0.67 NLPi:   12 Dpth:   59 Lvs:   97 Obj:  3.43E+00 Gap:       NaN
+Iter:    84 I:  0 Tm:      2.13 NLPi:   25 Dpth:   60 Lvs:   99 Obj:  3.43E+00 Gap:       NaN
+Iter:    85 I:  0 Tm:      0.83 NLPi:   15 Dpth:   61 Lvs:  101 Obj:  3.43E+00 Gap:       NaN
+Iter:    86 I:  0 Tm:      1.41 NLPi:   12 Dpth:   62 Lvs:  103 Obj:  3.43E+00 Gap:       NaN
+Iter:    87 I:  0 Tm:      0.90 NLPi:   14 Dpth:   63 Lvs:  105 Obj:  3.43E+00 Gap:       NaN
+Iter:    88 I:-11 Tm:      2.47 NLPi:   40 Dpth:   64 Lvs:  104 Obj:  3.43E+00 Gap:       NaN
+Iter:    89 I:  0 Tm:      1.84 NLPi:   23 Dpth:   64 Lvs:  106 Obj:  3.43E+00 Gap:       NaN
+Iter:    90 I:  0 Tm:      2.22 NLPi:   33 Dpth:   65 Lvs:  108 Obj:  3.43E+00 Gap:       NaN
+Iter:    91 I:  0 Tm:      0.68 NLPi:   15 Dpth:   66 Lvs:  110 Obj:  3.43E+00 Gap:       NaN
+Iter:    92 I:  0 Tm:      1.39 NLPi:   11 Dpth:   67 Lvs:  112 Obj:  3.43E+00 Gap:       NaN
+Iter:    93 I:  0 Tm:      0.90 NLPi:   10 Dpth:   68 Lvs:  114 Obj:  3.43E+00 Gap:       NaN
+Iter:    94 I:  0 Tm:      1.40 NLPi:   18 Dpth:   69 Lvs:  116 Obj:  3.43E+00 Gap:       NaN
+Iter:    95 I:  0 Tm:      0.53 NLPi:   12 Dpth:   70 Lvs:  117 Obj:  3.43E+00 Gap:       NaN
+Iter:    96 I:  0 Tm:      1.00 NLPi:    5 Dpth:   71 Lvs:  118 Obj:  3.43E+00 Gap:       NaN
+Iter:    97 I:  0 Tm:      1.07 NLPi:    7 Dpth:   72 Lvs:  120 Obj:  3.43E+00 Gap:       NaN
+Iter:    98 I:  0 Tm:      1.58 NLPi:   23 Dpth:   73 Lvs:  122 Obj:  3.43E+00 Gap:       NaN
+Iter:    99 I:  0 Tm:      0.61 NLPi:   13 Dpth:   74 Lvs:  123 Obj:  3.43E+00 Gap:       NaN
+Iter:   100 I:  0 Tm:      1.43 NLPi:   18 Dpth:   75 Lvs:  124 Obj:  3.43E+00 Gap:       NaN
+Iter:   101 I:  0 Tm:      1.12 NLPi:   11 Dpth:   76 Lvs:  126 Obj:  3.43E+00 Gap:       NaN
+Iter:   102 I:  0 Tm:      1.31 NLPi:   13 Dpth:   77 Lvs:  128 Obj:  3.43E+00 Gap:       NaN
+Iter:   103 I:  0 Tm:      1.14 NLPi:   12 Dpth:   78 Lvs:  129 Obj:  3.43E+00 Gap:       NaN
+Iter:   104 I:  0 Tm:      1.10 NLPi:   10 Dpth:   79 Lvs:  131 Obj:  3.43E+00 Gap:       NaN
+Iter:   105 I:  0 Tm:      1.66 NLPi:   19 Dpth:   80 Lvs:  133 Obj:  3.43E+00 Gap:       NaN
+Iter:   106 I:  0 Tm:      0.53 NLPi:   11 Dpth:   81 Lvs:  135 Obj:  3.43E+00 Gap:       NaN
+Iter:   107 I:  0 Tm:      1.89 NLPi:   28 Dpth:   82 Lvs:  137 Obj:  3.43E+00 Gap:       NaN
+Iter:   108 I:  0 Tm:      0.60 NLPi:   12 Dpth:   83 Lvs:  139 Obj:  3.43E+00 Gap:       NaN
+Iter:   109 I:  0 Tm:      2.47 NLPi:   40 Dpth:   84 Lvs:  141 Obj:  3.43E+00 Gap:       NaN
+Iter:   110 I:  0 Tm:      0.76 NLPi:   18 Dpth:   85 Lvs:  143 Obj:  3.43E+00 Gap:       NaN
+Iter:   111 I:  0 Tm:      0.99 NLPi:   15 Dpth:   86 Lvs:  145 Obj:  3.43E+00 Gap:       NaN
+Iter:   112 I:  0 Tm:      0.56 NLPi:   11 Dpth:   87 Lvs:  147 Obj:  3.43E+00 Gap:       NaN
+Iter:   113 I:  0 Tm:      1.47 NLPi:   13 Dpth:   88 Lvs:  149 Obj:  3.43E+00 Gap:       NaN
+Iter:   114 I:  0 Tm:      0.62 NLPi:   12 Dpth:   89 Lvs:  151 Obj:  3.43E+00 Gap:       NaN
+Iter:   115 I:  0 Tm:      1.38 NLPi:   11 Dpth:   90 Lvs:  152 Obj:  3.43E+00 Gap:       NaN
+Iter:   116 I:  0 Tm:      0.72 NLPi:   17 Dpth:   91 Lvs:  154 Obj:  3.43E+00 Gap:       NaN
+Iter:   117 I:  0 Tm:      1.10 NLPi:   21 Dpth:   92 Lvs:  156 Obj:  3.43E+00 Gap:       NaN
+Iter:   118 I: -1 Tm:      2.57 NLPi:   37 Dpth:   93 Lvs:  155 Obj:  3.43E+00 Gap:       NaN
+Iter:   119 I:  0 Tm:      1.68 NLPi:   19 Dpth:   93 Lvs:  157 Obj:  3.43E+00 Gap:       NaN
+Iter:   120 I:  0 Tm:      1.78 NLPi:   22 Dpth:   94 Lvs:  159 Obj:  3.43E+00 Gap:       NaN
+Iter:   121 I:  0 Tm:      1.29 NLPi:   15 Dpth:   95 Lvs:  161 Obj:  3.44E+00 Gap:       NaN
+Iter:   122 I:  0 Tm:      2.14 NLPi:   34 Dpth:   96 Lvs:  163 Obj:  3.44E+00 Gap:       NaN
+Iter:   123 I:  0 Tm:      0.82 NLPi:   12 Dpth:   97 Lvs:  165 Obj:  3.44E+00 Gap:       NaN
+Iter:   124 I:  0 Tm:      2.34 NLPi:   35 Dpth:   98 Lvs:  167 Obj:  3.44E+00 Gap:       NaN
+Iter:   125 I: -1 Tm:     33.95 NLPi:  149 Dpth:   99 Lvs:  166 Obj:  3.44E+00 Gap:       NaN
+Iter:   126 I:  0 Tm:      3.03 NLPi:   30 Dpth:   99 Lvs:  168 Obj:  3.44E+00 Gap:       NaN
+Iter:   127 I:  0 Tm:      1.86 NLPi:   32 Dpth:  100 Lvs:  170 Obj:  3.44E+00 Gap:       NaN
+Iter:   128 I:  0 Tm:      1.78 NLPi:   17 Dpth:  101 Lvs:  172 Obj:  3.45E+00 Gap:       NaN
+Iter:   129 I:  0 Tm:      1.47 NLPi:   16 Dpth:  102 Lvs:  174 Obj:  3.46E+00 Gap:       NaN
+Iter:   130 I:-11 Tm:      1.90 NLPi:   26 Dpth:  103 Lvs:  173 Obj:  3.46E+00 Gap:       NaN
+Iter:   131 I:  0 Tm:      1.31 NLPi:   12 Dpth:  103 Lvs:  175 Obj:  3.46E+00 Gap:       NaN
+Iter:   132 I:  0 Tm:      3.21 NLPi:   46 Dpth:  104 Lvs:  177 Obj:  3.45E+00 Gap:       NaN
+Iter:   133 I:  0 Tm:      1.36 NLPi:   14 Dpth:  105 Lvs:  179 Obj:  3.46E+00 Gap:       NaN
+Iter:   134 I:  0 Tm:      1.86 NLPi:   29 Dpth:  106 Lvs:  181 Obj:  3.45E+00 Gap:       NaN
+Iter:   135 I:  0 Tm:      1.50 NLPi:   14 Dpth:  107 Lvs:  183 Obj:  3.46E+00 Gap:       NaN
+Iter:   136 I:  0 Tm:      1.43 NLPi:   13 Dpth:  108 Lvs:  185 Obj:  3.45E+00 Gap:       NaN
+Iter:   137 I:  0 Tm:      1.74 NLPi:   12 Dpth:  109 Lvs:  187 Obj:  3.46E+00 Gap:       NaN
+Iter:   138 I:  0 Tm:      1.97 NLPi:   21 Dpth:  110 Lvs:  189 Obj:  3.45E+00 Gap:       NaN
+Iter:   139 I:  0 Tm:      1.47 NLPi:   15 Dpth:  111 Lvs:  191 Obj:  3.46E+00 Gap:       NaN
+Iter:   140 I:  0 Tm:      2.35 NLPi:   33 Dpth:  112 Lvs:  192 Obj:  3.45E+00 Gap:       NaN
+Iter:   141 I:  0 Tm:      2.05 NLPi:   29 Dpth:  113 Lvs:  194 Obj:  3.45E+00 Gap:       NaN
+Iter:   142 I:  0 Tm:      2.02 NLPi:   14 Dpth:  114 Lvs:  195 Obj:  3.46E+00 Gap:       NaN
+Iter:   143 I:  0 Tm:      1.27 NLPi:   12 Dpth:  115 Lvs:  197 Obj:  3.46E+00 Gap:       NaN
+Iter:   144 I:  0 Tm:      1.64 NLPi:   14 Dpth:  116 Lvs:  199 Obj:  3.45E+00 Gap:       NaN
+Iter:   145 I:  0 Tm:      1.47 NLPi:   15 Dpth:  117 Lvs:  201 Obj:  3.46E+00 Gap:       NaN
+Iter:   146 I:  0 Tm:      1.54 NLPi:   15 Dpth:  118 Lvs:  203 Obj:  3.45E+00 Gap:       NaN
+Iter:   147 I:  0 Tm:      1.31 NLPi:   13 Dpth:  119 Lvs:  204 Obj:  3.46E+00 Gap:       NaN
+Iter:   148 I:  0 Tm:      1.29 NLPi:   12 Dpth:  120 Lvs:  205 Obj:  3.46E+00 Gap:       NaN
+Iter:   149 I:  0 Tm:      1.65 NLPi:   17 Dpth:  121 Lvs:  207 Obj:  3.45E+00 Gap:       NaN
+Iter:   150 I:  0 Tm:      2.36 NLPi:   29 Dpth:  122 Lvs:  209 Obj:  3.46E+00 Gap:       NaN
+Iter:   151 I:  0 Tm:      1.43 NLPi:   16 Dpth:  123 Lvs:  211 Obj:  3.46E+00 Gap:       NaN
+Iter:   152 I:  0 Tm:      1.73 NLPi:   28 Dpth:  124 Lvs:  213 Obj:  3.46E+00 Gap:       NaN
+Iter:   153 I:  0 Tm:      1.24 NLPi:   11 Dpth:  125 Lvs:  215 Obj:  3.46E+00 Gap:       NaN
+Iter:   154 I:  0 Tm:      3.15 NLPi:   48 Dpth:  126 Lvs:  217 Obj:  3.46E+00 Gap:       NaN
+Iter:   155 I:  0 Tm:      1.84 NLPi:   21 Dpth:  127 Lvs:  218 Obj:  3.46E+00 Gap:       NaN
+Iter:   156 I:  0 Tm:      1.49 NLPi:   17 Dpth:  128 Lvs:  219 Obj:  3.46E+00 Gap:       NaN
+Iter:   157 I:  0 Tm:      1.23 NLPi:   11 Dpth:  129 Lvs:  221 Obj:  3.46E+00 Gap:       NaN
+Iter:   158 I:  0 Tm:      2.01 NLPi:   31 Dpth:  130 Lvs:  223 Obj:  3.46E+00 Gap:       NaN
+Iter:   159 I:-11 Tm:      1.96 NLPi:   28 Dpth:  131 Lvs:  222 Obj:  3.46E+00 Gap:       NaN
+Iter:   160 I:  0 Tm:      1.39 NLPi:   10 Dpth:  131 Lvs:  224 Obj:  3.47E+00 Gap:       NaN
+Iter:   161 I:  0 Tm:      1.83 NLPi:   26 Dpth:  132 Lvs:  226 Obj:  3.47E+00 Gap:       NaN
+Iter:   162 I:  0 Tm:      1.84 NLPi:   24 Dpth:  133 Lvs:  228 Obj:  3.47E+00 Gap:       NaN
+Iter:   163 I:  0 Tm:      1.30 NLPi:   12 Dpth:  134 Lvs:  230 Obj:  3.47E+00 Gap:       NaN
+Iter:   164 I:  0 Tm:      1.26 NLPi:   15 Dpth:  135 Lvs:  232 Obj:  3.47E+00 Gap:       NaN
+Iter:   165 I:  0 Tm:      1.21 NLPi:   12 Dpth:  136 Lvs:  234 Obj:  3.47E+00 Gap:       NaN
+Iter:   166 I:  0 Tm:      1.51 NLPi:   19 Dpth:  137 Lvs:  236 Obj:  3.47E+00 Gap:       NaN
+Iter:   167 I:  0 Tm:      1.53 NLPi:   17 Dpth:  138 Lvs:  237 Obj:  3.47E+00 Gap:       NaN
+Iter:   168 I:  0 Tm:      1.15 NLPi:    9 Dpth:  139 Lvs:  239 Obj:  3.48E+00 Gap:       NaN
+Iter:   169 I:  0 Tm:      1.59 NLPi:   12 Dpth:  140 Lvs:  241 Obj:  3.49E+00 Gap:       NaN
+Iter:   170 I:  0 Tm:      1.24 NLPi:   11 Dpth:  141 Lvs:  243 Obj:  3.49E+00 Gap:       NaN
+Iter:   171 I:  0 Tm:      1.75 NLPi:   23 Dpth:  142 Lvs:  245 Obj:  3.49E+00 Gap:       NaN
+Iter:   172 I:  0 Tm:      1.63 NLPi:   17 Dpth:  143 Lvs:  247 Obj:  3.49E+00 Gap:       NaN
+Iter:   173 I:  0 Tm:      1.54 NLPi:   17 Dpth:  144 Lvs:  249 Obj:  3.49E+00 Gap:       NaN
+Iter:   174 I:  0 Tm:      1.04 NLPi:   10 Dpth:  145 Lvs:  250 Obj:  3.49E+00 Gap:       NaN
+Iter:   175 I:  0 Tm:      1.17 NLPi:    9 Dpth:  146 Lvs:  252 Obj:  3.49E+00 Gap:       NaN
+Iter:   176 I:  0 Tm:      1.28 NLPi:   12 Dpth:  147 Lvs:  254 Obj:  3.49E+00 Gap:       NaN
+Iter:   177 I:  0 Tm:      1.10 NLPi:    7 Dpth:  148 Lvs:  255 Obj:  3.49E+00 Gap:       NaN
+Iter:   178 I:  0 Tm:      1.52 NLPi:   19 Dpth:  149 Lvs:  257 Obj:  3.49E+00 Gap:       NaN
+Iter:   179 I:  0 Tm:      1.19 NLPi:    9 Dpth:  150 Lvs:  258 Obj:  3.49E+00 Gap:       NaN
+Iter:   180 I:  0 Tm:      1.02 NLPi:    8 Dpth:  151 Lvs:  260 Obj:  3.49E+00 Gap:       NaN
+Iter:   181 I:  0 Tm:      1.22 NLPi:    9 Dpth:  152 Lvs:  262 Obj:  3.49E+00 Gap:       NaN
+Iter:   182 I:  0 Tm:      1.88 NLPi:   26 Dpth:  153 Lvs:  264 Obj:  3.49E+00 Gap:       NaN
+Iter:   183 I:  0 Tm:      1.67 NLPi:   15 Dpth:  154 Lvs:  265 Obj:  3.49E+00 Gap:       NaN
+Iter:   184 I:  0 Tm:      1.38 NLPi:   13 Dpth:  155 Lvs:  267 Obj:  3.49E+00 Gap:       NaN
+Iter:   185 I:  0 Tm:      2.16 NLPi:   19 Dpth:  156 Lvs:  269 Obj:  3.49E+00 Gap:       NaN
+Iter:   186 I:  0 Tm:      1.23 NLPi:   12 Dpth:  157 Lvs:  271 Obj:  3.49E+00 Gap:       NaN
+Iter:   187 I:  0 Tm:      1.35 NLPi:   13 Dpth:  158 Lvs:  273 Obj:  3.49E+00 Gap:       NaN
+Iter:   188 I:  0 Tm:      1.14 NLPi:    9 Dpth:  159 Lvs:  275 Obj:  3.49E+00 Gap:       NaN
+Iter:   189 I:  0 Tm:      2.15 NLPi:   22 Dpth:  160 Lvs:  277 Obj:  3.49E+00 Gap:       NaN
+Iter:   190 I:  0 Tm:      2.17 NLPi:   20 Dpth:  161 Lvs:  278 Obj:  3.49E+00 Gap:       NaN
+Iter:   191 I:  0 Tm:      1.02 NLPi:    7 Dpth:  162 Lvs:  279 Obj:  3.49E+00 Gap:       NaN
+Iter:   192 I:  0 Tm:      1.70 NLPi:   19 Dpth:  163 Lvs:  281 Obj:  3.49E+00 Gap:       NaN
+Iter:   193 I:  0 Tm:      1.59 NLPi:   19 Dpth:  164 Lvs:  283 Obj:  3.49E+00 Gap:       NaN
+Iter:   194 I:  0 Tm:      1.42 NLPi:   14 Dpth:  165 Lvs:  285 Obj:  3.49E+00 Gap:       NaN
+Iter:   195 I:  0 Tm:      0.96 NLPi:    7 Dpth:  166 Lvs:  286 Obj:  3.49E+00 Gap:       NaN
+Iter:   196 I:  0 Tm:      1.42 NLPi:    9 Dpth:  167 Lvs:  287 Obj:  3.49E+00 Gap:       NaN
+Iter:   197 I:  0 Tm:      1.79 NLPi:   19 Dpth:  168 Lvs:  289 Obj:  3.49E+00 Gap:       NaN
+Iter:   198 I:  0 Tm:      1.94 NLPi:   22 Dpth:  169 Lvs:  288 Obj:  3.49E+00 Gap:       NaN
+Iter:   199 I:  0 Tm:      1.02 NLPi:    6 Dpth:  169 Lvs:  289 Obj:  3.49E+00 Gap:       NaN
+Iter:   200 I:  0 Tm:      1.38 NLPi:   16 Dpth:  170 Lvs:  291 Obj:  3.49E+00 Gap:       NaN
+Iter:   201 I:  0 Tm:      1.07 NLPi:    8 Dpth:  171 Lvs:  293 Obj:  3.49E+00 Gap:       NaN
+Iter:   202 I:  0 Tm:      1.18 NLPi:   12 Dpth:  172 Lvs:  295 Obj:  3.49E+00 Gap:       NaN
+Iter:   203 I:  0 Tm:      1.12 NLPi:    5 Dpth:  173 Lvs:  297 Obj:  3.49E+00 Gap:       NaN
+Iter:   204 I:  0 Tm:      1.09 NLPi:    6 Dpth:  174 Lvs:  299 Obj:  3.49E+00 Gap:       NaN
+Iter:   205 I:  0 Tm:      1.07 NLPi:   10 Dpth:  175 Lvs:  301 Obj:  3.49E+00 Gap:       NaN
+Iter:   206 I:  0 Tm:      1.43 NLPi:   17 Dpth:  176 Lvs:  302 Obj:  3.49E+00 Gap:       NaN
+Iter:   207 I:  0 Tm:      1.12 NLPi:    6 Dpth:  177 Lvs:  303 Obj:  3.49E+00 Gap:       NaN
+Iter:   208 I:  0 Tm:      1.06 NLPi:    8 Dpth:  178 Lvs:  305 Obj:  3.49E+00 Gap:       NaN
+Iter:   209 I:  0 Tm:      1.63 NLPi:   19 Dpth:  179 Lvs:  307 Obj:  3.49E+00 Gap:       NaN
+Iter:   210 I:  0 Tm:      1.67 NLPi:   23 Dpth:  180 Lvs:  309 Obj:  3.49E+00 Gap:       NaN
+Iter:   211 I:  0 Tm:      1.25 NLPi:   11 Dpth:  181 Lvs:  311 Obj:  3.49E+00 Gap:       NaN
+Iter:   212 I:  0 Tm:      1.46 NLPi:   10 Dpth:  182 Lvs:  313 Obj:  3.49E+00 Gap:       NaN
+Iter:   213 I:  0 Tm:      0.98 NLPi:    8 Dpth:  183 Lvs:  315 Obj:  3.49E+00 Gap:       NaN
+Iter:   214 I:  0 Tm:      1.99 NLPi:   32 Dpth:  184 Lvs:  317 Obj:  3.49E+00 Gap:       NaN
+Iter:   215 I:  0 Tm:      1.54 NLPi:   20 Dpth:  185 Lvs:  319 Obj:  3.49E+00 Gap:       NaN
+Iter:   216 I:  0 Tm:      1.16 NLPi:   12 Dpth:  186 Lvs:  321 Obj:  3.49E+00 Gap:       NaN
+Iter:   217 I:  0 Tm:      1.12 NLPi:    8 Dpth:  187 Lvs:  323 Obj:  3.49E+00 Gap:       NaN
+Iter:   218 I:  0 Tm:      1.54 NLPi:   22 Dpth:  188 Lvs:  325 Obj:  3.49E+00 Gap:       NaN
+Iter:   219 I:  0 Tm:      1.30 NLPi:   16 Dpth:  189 Lvs:  326 Obj:  3.49E+00 Gap:       NaN
+Iter:   220 I:  0 Tm:      1.14 NLPi:   13 Dpth:  190 Lvs:  328 Obj:  3.49E+00 Gap:       NaN
+Iter:   221 I:  0 Tm:      1.30 NLPi:   18 Dpth:  191 Lvs:  330 Obj:  3.49E+00 Gap:       NaN
+Iter:   222 I:  0 Tm:      1.23 NLPi:   15 Dpth:  192 Lvs:  332 Obj:  3.49E+00 Gap:       NaN
+Iter:   223 I:  0 Tm:      0.95 NLPi:    9 Dpth:  193 Lvs:  334 Obj:  3.49E+00 Gap:       NaN
+Iter:   224 I:  0 Tm:      1.25 NLPi:   14 Dpth:  194 Lvs:  335 Obj:  3.49E+00 Gap:       NaN
+Iter:   225 I:  0 Tm:      1.17 NLPi:   12 Dpth:  195 Lvs:  337 Obj:  3.49E+00 Gap:       NaN
+Iter:   226 I:  0 Tm:      0.95 NLPi:    5 Dpth:  196 Lvs:  339 Obj:  3.49E+00 Gap:       NaN
+Iter:   227 I:  0 Tm:      1.82 NLPi:   30 Dpth:  197 Lvs:  341 Obj:  3.49E+00 Gap:       NaN
+Iter:   228 I:  0 Tm:      1.27 NLPi:    7 Dpth:  198 Lvs:  342 Obj:  3.49E+00 Gap:       NaN
+Iter:   229 I:  0 Tm:      0.93 NLPi:    6 Dpth:  199 Lvs:  344 Obj:  3.49E+00 Gap:       NaN
+Iter:   230 I:  0 Tm:      1.22 NLPi:   13 Dpth:  200 Lvs:  346 Obj:  3.49E+00 Gap:       NaN
+Iter:   231 I:  0 Tm:      0.97 NLPi:    8 Dpth:  201 Lvs:  348 Obj:  3.49E+00 Gap:       NaN
+Iter:   232 I:  0 Tm:      0.60 NLPi:    7 Dpth:  202 Lvs:  349 Obj:  3.49E+00 Gap:       NaN
+Iter:   233 I:  0 Tm:      1.30 NLPi:   14 Dpth:  203 Lvs:  351 Obj:  3.51E+00 Gap:       NaN
+Iter:   234 I:  0 Tm:      1.57 NLPi:   23 Dpth:  204 Lvs:  353 Obj:  3.51E+00 Gap:       NaN
+Iter:   235 I:  0 Tm:      1.41 NLPi:   23 Dpth:  205 Lvs:  355 Obj:  3.51E+00 Gap:       NaN
+Iter:   236 I:  0 Tm:      2.37 NLPi:   37 Dpth:  206 Lvs:  357 Obj:  3.51E+00 Gap:       NaN
+Iter:   237 I:  0 Tm:      1.35 NLPi:   12 Dpth:  207 Lvs:  359 Obj:  3.51E+00 Gap:       NaN
+Iter:   238 I:  0 Tm:      1.47 NLPi:   17 Dpth:  208 Lvs:  361 Obj:  3.51E+00 Gap:       NaN
+Iter:   239 I:  0 Tm:      1.41 NLPi:   14 Dpth:  209 Lvs:  363 Obj:  3.51E+00 Gap:       NaN
+Iter:   240 I:  0 Tm:      1.58 NLPi:   19 Dpth:  210 Lvs:  364 Obj:  3.51E+00 Gap:       NaN
+Iter:   241 I:  0 Tm:      1.49 NLPi:   18 Dpth:  211 Lvs:  366 Obj:  3.53E+00 Gap:       NaN
+Iter:   242 I:  0 Tm:      1.97 NLPi:   29 Dpth:  212 Lvs:  368 Obj:  3.53E+00 Gap:       NaN
+Iter:   243 I:  0 Tm:      1.30 NLPi:   10 Dpth:  213 Lvs:  370 Obj:  3.53E+00 Gap:       NaN
+Iter:   244 I:  0 Tm:      1.52 NLPi:   18 Dpth:  214 Lvs:  372 Obj:  3.53E+00 Gap:       NaN
+Iter:   245 I:  0 Tm:      1.00 NLPi:    7 Dpth:  215 Lvs:  374 Obj:  3.53E+00 Gap:       NaN
+Iter:   246 I:  0 Tm:      1.07 NLPi:    7 Dpth:  216 Lvs:  376 Obj:  3.53E+00 Gap:       NaN
+Iter:   247 I:  0 Tm:      1.18 NLPi:   14 Dpth:  217 Lvs:  378 Obj:  3.53E+00 Gap:       NaN
+Iter:   248 I:  0 Tm:      1.39 NLPi:   12 Dpth:  218 Lvs:  379 Obj:  3.53E+00 Gap:       NaN
+Iter:   249 I:  0 Tm:      1.05 NLPi:    8 Dpth:  219 Lvs:  381 Obj:  3.53E+00 Gap:       NaN
+Iter:   250 I:  0 Tm:      0.93 NLPi:   15 Dpth:  220 Lvs:  383 Obj:  3.53E+00 Gap:       NaN
+Iter:   251 I:  0 Tm:      1.19 NLPi:    7 Dpth:  221 Lvs:  385 Obj:  3.53E+00 Gap:       NaN
+Iter:   252 I:  0 Tm:      2.09 NLPi:   17 Dpth:  222 Lvs:  386 Obj:  3.53E+00 Gap:       NaN
+Iter:   253 I:  0 Tm:      1.15 NLPi:    7 Dpth:  223 Lvs:  388 Obj:  3.53E+00 Gap:       NaN
+Iter:   254 I:  0 Tm:      1.19 NLPi:   10 Dpth:  224 Lvs:  390 Obj:  3.53E+00 Gap:       NaN
+Iter:   255 I:  0 Tm:      1.72 NLPi:    7 Dpth:  225 Lvs:  392 Obj:  3.53E+00 Gap:       NaN
+Iter:   256 I:  0 Tm:      1.38 NLPi:   18 Dpth:  226 Lvs:  393 Obj:  3.53E+00 Gap:       NaN
+Iter:   257 I:  0 Tm:      0.94 NLPi:    7 Dpth:  227 Lvs:  395 Obj:  3.54E+00 Gap:       NaN
+Iter:   258 I:  0 Tm:      1.18 NLPi:    7 Dpth:  228 Lvs:  397 Obj:  3.54E+00 Gap:       NaN
+Iter:   259 I:-11 Tm:      1.82 NLPi:   30 Dpth:  229 Lvs:  396 Obj:  3.54E+00 Gap:       NaN
+Iter:   260 I:  0 Tm:      1.12 NLPi:    6 Dpth:  229 Lvs:  398 Obj:  3.54E+00 Gap:       NaN
+Iter:   261 I:  0 Tm:      1.42 NLPi:   19 Dpth:  230 Lvs:  400 Obj:  3.54E+00 Gap:       NaN
+Iter:   262 I:  0 Tm:      1.02 NLPi:    5 Dpth:  231 Lvs:  402 Obj:  3.54E+00 Gap:       NaN
+Iter:   263 I:  0 Tm:      1.32 NLPi:   11 Dpth:  232 Lvs:  404 Obj:  3.54E+00 Gap:       NaN
+Iter:   264 I:  0 Tm:      1.45 NLPi:   15 Dpth:  233 Lvs:  406 Obj:  3.54E+00 Gap:       NaN
+Iter:   265 I:  0 Tm:      1.48 NLPi:   14 Dpth:  234 Lvs:  407 Obj:  3.54E+00 Gap:       NaN
+Iter:   266 I:  0 Tm:      0.99 NLPi:    6 Dpth:  235 Lvs:  409 Obj:  3.54E+00 Gap:       NaN
+Iter:   267 I:  0 Tm:      1.01 NLPi:    7 Dpth:  236 Lvs:  411 Obj:  3.54E+00 Gap:       NaN
+Iter:   268 I:  0 Tm:      1.04 NLPi:    7 Dpth:  237 Lvs:  413 Obj:  3.54E+00 Gap:       NaN
+Iter:   269 I:  0 Tm:      0.96 NLPi:    8 Dpth:  238 Lvs:  414 Obj:  3.54E+00 Gap:       NaN
+Iter:   270 I:  0 Tm:      1.25 NLPi:   12 Dpth:  239 Lvs:  416 Obj:  3.54E+00 Gap:       NaN
+Iter:   271 I:  0 Tm:      1.15 NLPi:   11 Dpth:  240 Lvs:  418 Obj:  3.54E+00 Gap:       NaN
+Iter:   272 I:  0 Tm:      1.31 NLPi:    7 Dpth:  241 Lvs:  420 Obj:  3.54E+00 Gap:       NaN
+Iter:   273 I:  0 Tm:      0.84 NLPi:   16 Dpth:  242 Lvs:  420 Obj:  3.54E+00 Gap:       NaN
+Iter:   274 I:  0 Tm:      1.14 NLPi:   10 Dpth:  243 Lvs:  420 Obj:  3.54E+00 Gap:       NaN
+Iter:   275 I:  0 Tm:      1.13 NLPi:   10 Dpth:  244 Lvs:  422 Obj:  3.54E+00 Gap:       NaN
+Iter:   276 I:  0 Tm:      1.03 NLPi:    9 Dpth:  245 Lvs:  424 Obj:  3.54E+00 Gap:       NaN
+Iter:   277 I:  0 Tm:      1.19 NLPi:    7 Dpth:  246 Lvs:  426 Obj:  3.54E+00 Gap:       NaN
+Iter:   278 I:  0 Tm:      1.39 NLPi:   16 Dpth:  247 Lvs:  428 Obj:  3.54E+00 Gap:       NaN
+Iter:   279 I:-11 Tm:      1.18 NLPi:    5 Dpth:  248 Lvs:  427 Obj:  3.54E+00 Gap:       NaN
+Iter:   280 I:  0 Tm:      1.64 NLPi:    8 Dpth:  248 Lvs:  429 Obj:  3.54E+00 Gap:       NaN
+Iter:   281 I:  0 Tm:      1.23 NLPi:    7 Dpth:  249 Lvs:  431 Obj:  3.54E+00 Gap:       NaN
+Iter:   282 I:  0 Tm:      0.51 NLPi:    7 Dpth:  250 Lvs:  433 Obj:  3.54E+00 Gap:       NaN
+Iter:   283 I:  0 Tm:      1.19 NLPi:   13 Dpth:  251 Lvs:  435 Obj:  3.54E+00 Gap:       NaN
+Iter:   284 I:  0 Tm:      1.11 NLPi:   11 Dpth:  252 Lvs:  437 Obj:  3.54E+00 Gap:       NaN
+Iter:   285 I:  0 Tm:      1.04 NLPi:   10 Dpth:  253 Lvs:  439 Obj:  3.54E+00 Gap:       NaN
+Iter:   286 I:  0 Tm:      1.39 NLPi:   19 Dpth:  254 Lvs:  441 Obj:  3.54E+00 Gap:       NaN
+Iter:   287 I:  0 Tm:      1.19 NLPi:   11 Dpth:  255 Lvs:  443 Obj:  3.54E+00 Gap:       NaN
+Iter:   288 I:  0 Tm:      1.19 NLPi:    8 Dpth:  256 Lvs:  444 Obj:  3.54E+00 Gap:       NaN
+Iter:   289 I:  0 Tm:      2.63 NLPi:   38 Dpth:  257 Lvs:  446 Obj:  3.54E+00 Gap:       NaN
+Iter:   290 I:  0 Tm:      1.18 NLPi:   10 Dpth:  258 Lvs:  448 Obj:  3.54E+00 Gap:       NaN
+Iter:   291 I:  0 Tm:      1.05 NLPi:    9 Dpth:  259 Lvs:  450 Obj:  3.54E+00 Gap:       NaN
+Iter:   292 I:  0 Tm:      1.01 NLPi:    5 Dpth:  260 Lvs:  452 Obj:  3.54E+00 Gap:       NaN
+Iter:   293 I:  0 Tm:      0.60 NLPi:    7 Dpth:  261 Lvs:  454 Obj:  3.54E+00 Gap:       NaN
+Iter:   294 I:  0 Tm:      0.79 NLPi:    5 Dpth:  262 Lvs:  455 Obj:  3.54E+00 Gap:       NaN
+Iter:   295 I:  0 Tm:      1.47 NLPi:   16 Dpth:  263 Lvs:  457 Obj:  3.54E+00 Gap:       NaN
+Iter:   296 I:  0 Tm:      1.55 NLPi:   22 Dpth:  264 Lvs:  458 Obj:  3.54E+00 Gap:       NaN
+Iter:   297 I:  0 Tm:      1.05 NLPi:   11 Dpth:  265 Lvs:  460 Obj:  3.54E+00 Gap:       NaN
+Iter:   298 I:  0 Tm:      1.14 NLPi:    7 Dpth:  266 Lvs:  462 Obj:  3.54E+00 Gap:       NaN
+Iter:   299 I:  0 Tm:      1.15 NLPi:    8 Dpth:  267 Lvs:  464 Obj:  3.54E+00 Gap:       NaN
+Iter:   300 I:  0 Tm:      1.20 NLPi:    7 Dpth:  268 Lvs:  465 Obj:  3.54E+00 Gap:       NaN
+Iter:   301 I:  0 Tm:      1.27 NLPi:   11 Dpth:  269 Lvs:  467 Obj:  3.54E+00 Gap:       NaN
+Iter:   302 I:  0 Tm:      1.32 NLPi:   15 Dpth:  270 Lvs:  468 Obj:  3.54E+00 Gap:       NaN
+Iter:   303 I:  0 Tm:      1.50 NLPi:   16 Dpth:  271 Lvs:  470 Obj:  3.56E+00 Gap:       NaN
+Iter:   304 I:  0 Tm:      1.15 NLPi:   10 Dpth:  272 Lvs:  472 Obj:  3.56E+00 Gap:       NaN
+Iter:   305 I:  0 Tm:      1.93 NLPi:   28 Dpth:  273 Lvs:  474 Obj:  3.56E+00 Gap:       NaN
+Iter:   306 I:  0 Tm:      1.04 NLPi:    9 Dpth:  274 Lvs:  476 Obj:  3.56E+00 Gap:       NaN
+Iter:   307 I:  0 Tm:      1.57 NLPi:   19 Dpth:  275 Lvs:  478 Obj:  3.56E+00 Gap:       NaN
+Iter:   308 I:  0 Tm:      1.04 NLPi:    8 Dpth:  276 Lvs:  480 Obj:  3.56E+00 Gap:       NaN
+Iter:   309 I:  0 Tm:      1.39 NLPi:   15 Dpth:  277 Lvs:  482 Obj:  3.56E+00 Gap:       NaN
+Iter:   310 I:  0 Tm:      1.11 NLPi:    8 Dpth:  278 Lvs:  483 Obj:  3.56E+00 Gap:       NaN
+Iter:   311 I:  0 Tm:      1.72 NLPi:   23 Dpth:  279 Lvs:  485 Obj:  3.58E+00 Gap:       NaN
+Iter:   312 I:  0 Tm:      1.23 NLPi:   23 Dpth:  280 Lvs:  487 Obj:  3.59E+00 Gap:       NaN
+Iter:   313 I:  0 Tm:      1.16 NLPi:   14 Dpth:  281 Lvs:  489 Obj:  3.59E+00 Gap:       NaN
+Iter:   314 I:  0 Tm:      0.85 NLPi:   14 Dpth:  282 Lvs:  491 Obj:  3.59E+00 Gap:       NaN
+Iter:   315 I:  0 Tm:      1.10 NLPi:   10 Dpth:  283 Lvs:  493 Obj:  3.59E+00 Gap:       NaN
+Iter:   316 I:  0 Tm:      1.22 NLPi:   11 Dpth:  284 Lvs:  495 Obj:  3.59E+00 Gap:       NaN
+Iter:   317 I:  0 Tm:      1.70 NLPi:   17 Dpth:  285 Lvs:  497 Obj:  3.59E+00 Gap:       NaN
+Iter:   318 I:  0 Tm:      1.60 NLPi:   22 Dpth:  286 Lvs:  498 Obj:  3.59E+00 Gap:       NaN
+Iter:   319 I:  0 Tm:      1.04 NLPi:    9 Dpth:  287 Lvs:  500 Obj:  3.59E+00 Gap:       NaN
+Iter:   320 I:  0 Tm:      1.06 NLPi:    8 Dpth:  288 Lvs:  502 Obj:  3.59E+00 Gap:       NaN
+Iter:   321 I:  0 Tm:      1.67 NLPi:   19 Dpth:  289 Lvs:  504 Obj:  3.59E+00 Gap:       NaN
+Iter:   322 I:  0 Tm:      1.24 NLPi:   13 Dpth:  290 Lvs:  505 Obj:  3.59E+00 Gap:       NaN
+Iter:   323 I:  0 Tm:      1.00 NLPi:    8 Dpth:  291 Lvs:  507 Obj:  3.59E+00 Gap:       NaN
+Iter:   324 I:  0 Tm:      0.63 NLPi:   12 Dpth:  292 Lvs:  509 Obj:  3.59E+00 Gap:       NaN
+Iter:   325 I:  0 Tm:      1.52 NLPi:   23 Dpth:  293 Lvs:  511 Obj:  3.59E+00 Gap:       NaN
+Iter:   326 I:  0 Tm:      1.15 NLPi:    7 Dpth:  294 Lvs:  512 Obj:  3.59E+00 Gap:       NaN
+Iter:   327 I:  0 Tm:      1.06 NLPi:    9 Dpth:  295 Lvs:  514 Obj:  3.59E+00 Gap:       NaN
+Iter:   328 I:  0 Tm:      1.22 NLPi:    6 Dpth:  296 Lvs:  516 Obj:  3.59E+00 Gap:       NaN
+Iter:   329 I:  0 Tm:      1.19 NLPi:   17 Dpth:  297 Lvs:  518 Obj:  3.59E+00 Gap:       NaN
+Iter:   330 I:  0 Tm:      0.86 NLPi:    5 Dpth:  298 Lvs:  520 Obj:  3.59E+00 Gap:       NaN
+Iter:   331 I:  0 Tm:      1.25 NLPi:   10 Dpth:  299 Lvs:  522 Obj:  3.59E+00 Gap:       NaN
+Iter:   332 I:  0 Tm:      1.07 NLPi:   10 Dpth:  300 Lvs:  523 Obj:  3.59E+00 Gap:       NaN
+Iter:   333 I:  0 Tm:      0.65 NLPi:   10 Dpth:  301 Lvs:  525 Obj:  3.59E+00 Gap:       NaN
+Iter:   334 I:  0 Tm:      1.15 NLPi:   12 Dpth:  302 Lvs:  527 Obj:  3.59E+00 Gap:       NaN
+Iter:   335 I:  0 Tm:      1.08 NLPi:    8 Dpth:  303 Lvs:  529 Obj:  3.59E+00 Gap:       NaN
+Iter:   336 I:  0 Tm:      2.09 NLPi:   37 Dpth:  304 Lvs:  530 Obj:  3.59E+00 Gap:       NaN
+Iter:   337 I:  0 Tm:      1.16 NLPi:    8 Dpth:  305 Lvs:  532 Obj:  3.59E+00 Gap:       NaN
+Iter:   338 I:  0 Tm:      1.12 NLPi:    6 Dpth:  306 Lvs:  533 Obj:  3.59E+00 Gap:       NaN
+Iter:   339 I:  0 Tm:      1.47 NLPi:   15 Dpth:  307 Lvs:  535 Obj:  3.59E+00 Gap:       NaN
+Iter:   340 I:  0 Tm:      0.45 NLPi:    6 Dpth:  308 Lvs:  537 Obj:  3.59E+00 Gap:       NaN
+Iter:   341 I:  0 Tm:      1.37 NLPi:   10 Dpth:  309 Lvs:  539 Obj:  3.59E+00 Gap:       NaN
+Iter:   342 I:  0 Tm:      1.13 NLPi:    9 Dpth:  310 Lvs:  541 Obj:  3.59E+00 Gap:       NaN
+Iter:   343 I:-11 Tm:      1.39 NLPi:    9 Dpth:  311 Lvs:  540 Obj:  3.59E+00 Gap:       NaN
+Iter:   344 I:  0 Tm:      1.27 NLPi:   19 Dpth:  311 Lvs:  542 Obj:  3.59E+00 Gap:       NaN
+Iter:   345 I:  0 Tm:      1.02 NLPi:    7 Dpth:  312 Lvs:  544 Obj:  3.59E+00 Gap:       NaN
+Iter:   346 I:  0 Tm:      1.40 NLPi:   13 Dpth:  313 Lvs:  546 Obj:  3.59E+00 Gap:       NaN
+Iter:   347 I:  0 Tm:      1.26 NLPi:   12 Dpth:  314 Lvs:  547 Obj:  3.59E+00 Gap:       NaN
+Iter:   348 I:  0 Tm:      1.19 NLPi:   11 Dpth:  315 Lvs:  549 Obj:  3.59E+00 Gap:       NaN
+Iter:   349 I:  0 Tm:      0.62 NLPi:   11 Dpth:  316 Lvs:  550 Obj:  3.59E+00 Gap:       NaN
+Iter:   350 I:  0 Tm:      1.88 NLPi:   29 Dpth:  317 Lvs:  552 Obj:  3.62E+00 Gap:       NaN
+Iter:   351 I:  0 Tm:      1.24 NLPi:   12 Dpth:  318 Lvs:  554 Obj:  3.62E+00 Gap:       NaN
+Iter:   352 I:  0 Tm:      0.99 NLPi:    9 Dpth:  319 Lvs:  556 Obj:  3.62E+00 Gap:       NaN
+Iter:   353 I:  0 Tm:      1.74 NLPi:   17 Dpth:  320 Lvs:  558 Obj:  3.62E+00 Gap:       NaN
+Iter:   354 I:  0 Tm:      1.65 NLPi:   19 Dpth:  321 Lvs:  560 Obj:  3.62E+00 Gap:       NaN
+Iter:   355 I:  0 Tm:      1.41 NLPi:   10 Dpth:  322 Lvs:  562 Obj:  3.62E+00 Gap:       NaN
+Iter:   356 I:  0 Tm:      0.83 NLPi:    8 Dpth:  323 Lvs:  563 Obj:  3.62E+00 Gap:       NaN
+Iter:   357 I:  0 Tm:      1.66 NLPi:    6 Dpth:  324 Lvs:  565 Obj:  3.62E+00 Gap:       NaN
+Iter:   358 I:  0 Tm:      1.81 NLPi:   10 Dpth:  325 Lvs:  567 Obj:  3.62E+00 Gap:       NaN
+Iter:   359 I:  0 Tm:      1.03 NLPi:   10 Dpth:  326 Lvs:  569 Obj:  3.62E+00 Gap:       NaN
+Iter:   360 I:  0 Tm:      0.94 NLPi:   10 Dpth:  327 Lvs:  570 Obj:  3.62E+00 Gap:       NaN
+Iter:   361 I:  0 Tm:      0.84 NLPi:    7 Dpth:  328 Lvs:  572 Obj:  3.62E+00 Gap:       NaN
+Iter:   362 I:  0 Tm:      0.83 NLPi:    7 Dpth:  329 Lvs:  573 Obj:  3.62E+00 Gap:       NaN
+Iter:   363 I:  0 Tm:      1.10 NLPi:   13 Dpth:  330 Lvs:  575 Obj:  3.62E+00 Gap:       NaN
+Iter:   364 I:  0 Tm:      0.95 NLPi:    6 Dpth:  331 Lvs:  576 Obj:  3.62E+00 Gap:       NaN
+Iter:   365 I:  0 Tm:      1.21 NLPi:   12 Dpth:  332 Lvs:  578 Obj:  3.65E+00 Gap:       NaN
+Iter:   366 I:  0 Tm:      1.00 NLPi:    7 Dpth:  333 Lvs:  580 Obj:  3.65E+00 Gap:       NaN
+Iter:   367 I:  0 Tm:      1.07 NLPi:   12 Dpth:  334 Lvs:  582 Obj:  3.65E+00 Gap:       NaN
+Iter:   368 I:  0 Tm:      1.04 NLPi:   10 Dpth:  335 Lvs:  584 Obj:  3.65E+00 Gap:       NaN
+Iter:   369 I:  0 Tm:      1.05 NLPi:    8 Dpth:  336 Lvs:  585 Obj:  3.65E+00 Gap:       NaN
+Iter:   370 I:-11 Tm:      0.93 NLPi:    8 Dpth:  337 Lvs:  584 Obj:  3.65E+00 Gap:       NaN
+Iter:   371 I:  0 Tm:      0.97 NLPi:    6 Dpth:  337 Lvs:  586 Obj:  3.65E+00 Gap:       NaN
+Iter:   372 I:  0 Tm:      0.98 NLPi:    6 Dpth:  338 Lvs:  587 Obj:  3.65E+00 Gap:       NaN
+Iter:   373 I:  0 Tm:      1.63 NLPi:   24 Dpth:  339 Lvs:  588 Obj:  3.65E+00 Gap:       NaN
+Iter:   374 I:  0 Tm:      0.96 NLPi:    8 Dpth:  340 Lvs:  590 Obj:  3.65E+00 Gap:       NaN
+Iter:   375 I:  0 Tm:      1.19 NLPi:   11 Dpth:  341 Lvs:  591 Obj:  3.65E+00 Gap:       NaN
+Iter:   376 I:  0 Tm:      1.24 NLPi:   17 Dpth:  342 Lvs:  593 Obj:  3.65E+00 Gap:       NaN
+Iter:   377 I:-11 Tm:      0.83 NLPi:    4 Dpth:  343 Lvs:  592 Obj:  3.65E+00 Gap:       NaN
+Iter:   378 I:  0 Tm:      1.05 NLPi:   11 Dpth:  343 Lvs:  594 Obj:  3.65E+00 Gap:       NaN
+Iter:   379 I:  0 Tm:      1.03 NLPi:    8 Dpth:  344 Lvs:  596 Obj:  3.65E+00 Gap:       NaN
+Iter:   380 I:  0 Tm:      0.99 NLPi:    8 Dpth:  345 Lvs:  598 Obj:  3.65E+00 Gap:       NaN
+Iter:   381 I:  0 Tm:      1.20 NLPi:   12 Dpth:  346 Lvs:  600 Obj:  3.65E+00 Gap:       NaN
+Iter:   382 I:  0 Tm:      0.90 NLPi:    6 Dpth:  347 Lvs:  601 Obj:  3.65E+00 Gap:       NaN
+Iter:   383 I:  0 Tm:      0.92 NLPi:    9 Dpth:  348 Lvs:  603 Obj:  3.65E+00 Gap:       NaN
+Iter:   384 I:  0 Tm:      1.06 NLPi:   13 Dpth:  349 Lvs:  605 Obj:  3.65E+00 Gap:       NaN
+Iter:   385 I:  0 Tm:      1.17 NLPi:   10 Dpth:  350 Lvs:  607 Obj:  3.65E+00 Gap:       NaN
+Iter:   386 I:  0 Tm:      1.36 NLPi:    8 Dpth:  351 Lvs:  609 Obj:  3.65E+00 Gap:       NaN
+Iter:   387 I:  0 Tm:      0.68 NLPi:    9 Dpth:  352 Lvs:  610 Obj:  3.65E+00 Gap:       NaN
+Iter:   388 I:  0 Tm:      1.20 NLPi:    9 Dpth:  353 Lvs:  611 Obj:  3.65E+00 Gap:       NaN
+Iter:   389 I:  0 Tm:      0.93 NLPi:    9 Dpth:  354 Lvs:  612 Obj:  3.65E+00 Gap:       NaN
+Iter:   390 I:  0 Tm:      1.16 NLPi:    6 Dpth:  355 Lvs:  614 Obj:  3.65E+00 Gap:       NaN
+Iter:   391 I:  0 Tm:      1.61 NLPi:   18 Dpth:  356 Lvs:  616 Obj:  3.65E+00 Gap:       NaN
+Iter:   392 I:  0 Tm:      1.26 NLPi:    8 Dpth:  357 Lvs:  618 Obj:  3.65E+00 Gap:       NaN
+Iter:   393 I:  0 Tm:      0.49 NLPi:    7 Dpth:  358 Lvs:  619 Obj:  3.65E+00 Gap:       NaN
+Iter:   394 I:  0 Tm:      1.16 NLPi:    7 Dpth:  359 Lvs:  621 Obj:  3.65E+00 Gap:       NaN
+Iter:   395 I:  0 Tm:      1.31 NLPi:   17 Dpth:  360 Lvs:  623 Obj:  3.65E+00 Gap:       NaN
+Iter:   396 I:  0 Tm:      1.27 NLPi:   13 Dpth:  361 Lvs:  625 Obj:  3.65E+00 Gap:       NaN
+Iter:   397 I:  0 Tm:      0.86 NLPi:    4 Dpth:  362 Lvs:  627 Obj:  3.65E+00 Gap:       NaN
+Iter:   398 I:  0 Tm:      0.89 NLPi:    4 Dpth:  363 Lvs:  628 Obj:  3.65E+00 Gap:       NaN
+Iter:   399 I:  0 Tm:      0.42 NLPi:    5 Dpth:  364 Lvs:  630 Obj:  3.65E+00 Gap:       NaN
+Iter:   400 I:  0 Tm:      0.43 NLPi:    6 Dpth:  365 Lvs:  631 Obj:  3.65E+00 Gap:       NaN
+Iter:   401 I:  0 Tm:      0.93 NLPi:    7 Dpth:  366 Lvs:  633 Obj:  3.65E+00 Gap:       NaN
+Iter:   402 I:  0 Tm:      1.05 NLPi:    7 Dpth:  367 Lvs:  635 Obj:  3.65E+00 Gap:       NaN
+Iter:   403 I:  0 Tm:      1.36 NLPi:    6 Dpth:  368 Lvs:  634 Obj:  3.65E+00 Gap:       NaN
+Iter:   404 I:  0 Tm:      1.02 NLPi:    6 Dpth:  368 Lvs:  636 Obj:  3.65E+00 Gap:       NaN
+Iter:   405 I:  0 Tm:      0.96 NLPi:    6 Dpth:  369 Lvs:  638 Obj:  3.65E+00 Gap:       NaN
+Iter:   406 I:  0 Tm:      1.37 NLPi:    5 Dpth:  370 Lvs:  639 Obj:  3.65E+00 Gap:       NaN
+Iter:   407 I:  0 Tm:      0.47 NLPi:    8 Dpth:  371 Lvs:  641 Obj:  3.65E+00 Gap:       NaN
+Iter:   408 I:  0 Tm:      0.95 NLPi:    3 Dpth:  372 Lvs:  643 Obj:  3.65E+00 Gap:       NaN
+Iter:   409 I:  0 Tm:      1.10 NLPi:   10 Dpth:  373 Lvs:  644 Obj:  3.65E+00 Gap:       NaN
+Iter:   410 I:  0 Tm:      0.93 NLPi:    7 Dpth:  374 Lvs:  646 Obj:  3.65E+00 Gap:       NaN
+Iter:   411 I:  0 Tm:      0.47 NLPi:    7 Dpth:  375 Lvs:  647 Obj:  3.65E+00 Gap:       NaN
+Iter:   412 I:  0 Tm:      0.63 NLPi:    8 Dpth:  376 Lvs:  649 Obj:  3.65E+00 Gap:       NaN
+Iter:   413 I:  0 Tm:      0.44 NLPi:    6 Dpth:  377 Lvs:  650 Obj:  3.65E+00 Gap:       NaN
+Iter:   414 I:  0 Tm:      1.15 NLPi:   11 Dpth:  378 Lvs:  652 Obj:  3.65E+00 Gap:       NaN
+Iter:   415 I:  0 Tm:      1.03 NLPi:   10 Dpth:  379 Lvs:  653 Obj:  3.65E+00 Gap:       NaN
+Iter:   416 I:  0 Tm:      1.02 NLPi:    6 Dpth:  380 Lvs:  654 Obj:  3.65E+00 Gap:       NaN
+Iter:   417 I:  0 Tm:      0.45 NLPi:    7 Dpth:  381 Lvs:  656 Obj:  3.65E+00 Gap:       NaN
+Iter:   418 I:  0 Tm:      0.38 NLPi:    3 Dpth:  382 Lvs:  658 Obj:  3.65E+00 Gap:       NaN
+Iter:   419 I:  0 Tm:      1.81 NLPi:   24 Dpth:  383 Lvs:  660 Obj:  3.65E+00 Gap:       NaN
+Iter:   420 I:  0 Tm:      1.49 NLPi:   12 Dpth:  384 Lvs:  662 Obj:  3.65E+00 Gap:       NaN
+Iter:   421 I:  0 Tm:      1.06 NLPi:    8 Dpth:  385 Lvs:  664 Obj:  3.65E+00 Gap:       NaN
+Iter:   422 I:  0 Tm:      0.64 NLPi:    9 Dpth:  386 Lvs:  663 Obj:  3.65E+00 Gap:       NaN
+Iter:   423 I:  0 Tm:      1.21 NLPi:   11 Dpth:  386 Lvs:  665 Obj:  3.65E+00 Gap:       NaN
+Iter:   424 I:  0 Tm:      0.84 NLPi:    7 Dpth:  387 Lvs:  667 Obj:  3.65E+00 Gap:       NaN
+Iter:   425 I:  0 Tm:      1.13 NLPi:   14 Dpth:  388 Lvs:  668 Obj:  3.65E+00 Gap:       NaN
+Iter:   426 I:  0 Tm:      1.11 NLPi:    8 Dpth:  389 Lvs:  670 Obj:  3.65E+00 Gap:       NaN
+Iter:   427 I:  0 Tm:      1.09 NLPi:    5 Dpth:  390 Lvs:  672 Obj:  3.65E+00 Gap:       NaN
+Iter:   428 I:  0 Tm:      1.28 NLPi:    6 Dpth:  391 Lvs:  674 Obj:  3.65E+00 Gap:       NaN
+Iter:   429 I:  0 Tm:      0.82 NLPi:   12 Dpth:  392 Lvs:  675 Obj:  3.65E+00 Gap:       NaN
+Iter:   430 I:  0 Tm:      1.19 NLPi:    6 Dpth:  393 Lvs:  677 Obj:  3.65E+00 Gap:       NaN
+Iter:   431 I:  0 Tm:      1.39 NLPi:   11 Dpth:  394 Lvs:  679 Obj:  3.65E+00 Gap:       NaN
+Iter:   432 I:  0 Tm:      1.16 NLPi:   10 Dpth:  395 Lvs:  680 Obj:  3.65E+00 Gap:       NaN
+Iter:   433 I:  0 Tm:      0.69 NLPi:   11 Dpth:  396 Lvs:  681 Obj:  3.65E+00 Gap:       NaN
+Iter:   434 I:  0 Tm:      0.52 NLPi:    7 Dpth:  397 Lvs:  683 Obj:  3.65E+00 Gap:       NaN
+Iter:   435 I:  0 Tm:      0.63 NLPi:   11 Dpth:  398 Lvs:  684 Obj:  3.65E+00 Gap:       NaN
+Iter:   436 I:  0 Tm:      0.84 NLPi:    6 Dpth:  399 Lvs:  686 Obj:  3.65E+00 Gap:       NaN
+Iter:   437 I:  0 Tm:      0.85 NLPi:   19 Dpth:  400 Lvs:  688 Obj:  3.65E+00 Gap:       NaN
+Iter:   438 I:  0 Tm:      0.43 NLPi:    6 Dpth:  401 Lvs:  688 Obj:  3.65E+00 Gap:       NaN
+Iter:   439 I:  0 Tm:      1.35 NLPi:   13 Dpth:  402 Lvs:  690 Obj:  3.65E+00 Gap:       NaN
+Iter:   440 I:  0 Tm:      0.56 NLPi:   10 Dpth:  403 Lvs:  692 Obj:  3.65E+00 Gap:       NaN
+Iter:   441 I:  0 Tm:      1.24 NLPi:    7 Dpth:  404 Lvs:  693 Obj:  3.65E+00 Gap:       NaN
+Iter:   442 I:  0 Tm:      0.94 NLPi:    6 Dpth:  405 Lvs:  695 Obj:  3.65E+00 Gap:       NaN
+Iter:   443 I:-11 Tm:      0.84 NLPi:    2 Dpth:  406 Lvs:  694 Obj:  3.65E+00 Gap:       NaN
+Iter:   444 I:  0 Tm:      2.21 NLPi:   26 Dpth:  406 Lvs:  696 Obj:  3.65E+00 Gap:       NaN
+Iter:   445 I:  0 Tm:      0.43 NLPi:    6 Dpth:  407 Lvs:  697 Obj:  3.65E+00 Gap:       NaN
+Iter:   446 I:  0 Tm:      1.25 NLPi:   13 Dpth:  408 Lvs:  699 Obj:  3.65E+00 Gap:       NaN
+Iter:   447 I:-11 Tm:      0.32 NLPi:    2 Dpth:  409 Lvs:  698 Obj:  3.65E+00 Gap:       NaN
+Iter:   448 I:  0 Tm:      0.53 NLPi:   10 Dpth:  409 Lvs:  699 Obj:  3.65E+00 Gap:       NaN
+Iter:   449 I:  0 Tm:      0.91 NLPi:    7 Dpth:  410 Lvs:  700 Obj:  3.65E+00 Gap:       NaN
+Iter:   450 I:  0 Tm:      0.90 NLPi:    6 Dpth:  411 Lvs:  702 Obj:  3.65E+00 Gap:       NaN
+Iter:   451 I:  0 Tm:      0.41 NLPi:    6 Dpth:  412 Lvs:  704 Obj:  3.65E+00 Gap:       NaN
+Iter:   452 I:  0 Tm:      1.00 NLPi:    7 Dpth:  413 Lvs:  706 Obj:  3.65E+00 Gap:       NaN
+Iter:   453 I:-11 Tm:      0.37 NLPi:    2 Dpth:  414 Lvs:  705 Obj:  3.65E+00 Gap:       NaN
+Iter:   454 I:  0 Tm:      1.15 NLPi:    6 Dpth:  414 Lvs:  707 Obj:  3.65E+00 Gap:       NaN
+Iter:   455 I:-11 Tm:      0.74 NLPi:    2 Dpth:  415 Lvs:  706 Obj:  3.65E+00 Gap:       NaN
+Iter:   456 I:  0 Tm:      0.69 NLPi:    4 Dpth:  415 Lvs:  707 Obj:  3.65E+00 Gap:       NaN
+Iter:   457 I:  0 Tm:      0.66 NLPi:    7 Dpth:  416 Lvs:  709 Obj:  3.65E+00 Gap:       NaN
+Iter:   458 I:  0 Tm:      1.11 NLPi:   11 Dpth:  417 Lvs:  710 Obj:  3.65E+00 Gap:       NaN
+Iter:   459 I:-11 Tm:      0.84 NLPi:    2 Dpth:  418 Lvs:  709 Obj:  3.65E+00 Gap:       NaN
+Iter:   460 I:  0 Tm:      0.82 NLPi:    6 Dpth:  418 Lvs:  711 Obj:  3.65E+00 Gap:       NaN
+Iter:   461 I:  0 Tm:      0.40 NLPi:    6 Dpth:  419 Lvs:  712 Obj:  3.65E+00 Gap:       NaN
+Iter:   462 I:  0 Tm:      1.08 NLPi:   13 Dpth:  420 Lvs:  714 Obj:  3.65E+00 Gap:       NaN
+Iter:   463 I:  0 Tm:      0.95 NLPi:   10 Dpth:  421 Lvs:  715 Obj:  3.65E+00 Gap:       NaN
+Iter:   464 I:-11 Tm:      0.34 NLPi:    2 Dpth:  422 Lvs:  714 Obj:  3.65E+00 Gap:       NaN
+Iter:   465 I:  0 Tm:      1.23 NLPi:   11 Dpth:  422 Lvs:  716 Obj:  3.65E+00 Gap:       NaN
+Iter:   466 I:  0 Tm:      1.31 NLPi:    9 Dpth:  423 Lvs:  717 Obj:  3.65E+00 Gap:       NaN
+Iter:   467 I:  0 Tm:      0.47 NLPi:    6 Dpth:  424 Lvs:  718 Obj:  3.65E+00 Gap:       NaN
+Iter:   468 I:  0 Tm:      1.07 NLPi:    7 Dpth:  425 Lvs:  720 Obj:  3.65E+00 Gap:       NaN
+Iter:   469 I:  0 Tm:      1.53 NLPi:    7 Dpth:  426 Lvs:  722 Obj:  3.65E+00 Gap:       NaN
+Iter:   470 I:  0 Tm:      0.73 NLPi:    9 Dpth:  427 Lvs:  724 Obj:  3.65E+00 Gap:       NaN
+Iter:   471 I:  0 Tm:      1.24 NLPi:   10 Dpth:  428 Lvs:  726 Obj:  3.65E+00 Gap:       NaN
+Iter:   472 I:  0 Tm:      0.45 NLPi:    6 Dpth:  429 Lvs:  728 Obj:  3.65E+00 Gap:       NaN
+Iter:   473 I:  0 Tm:      1.18 NLPi:   10 Dpth:  430 Lvs:  730 Obj:  3.65E+00 Gap:       NaN
+Iter:   474 I:-11 Tm:      0.42 NLPi:    2 Dpth:  431 Lvs:  729 Obj:  3.65E+00 Gap:       NaN
+Iter:   475 I:  0 Tm:      1.73 NLPi:   17 Dpth:  431 Lvs:  731 Obj:  3.65E+00 Gap:       NaN
+Iter:   476 I:-11 Tm:      0.34 NLPi:    2 Dpth:  432 Lvs:  730 Obj:  3.65E+00 Gap:       NaN
+Iter:   477 I:  0 Tm:      1.02 NLPi:    8 Dpth:  432 Lvs:  732 Obj:  3.65E+00 Gap:       NaN
+Iter:   478 I:-11 Tm:      0.36 NLPi:    2 Dpth:  433 Lvs:  731 Obj:  3.65E+00 Gap:       NaN
+Iter:   479 I:-11 Tm:      0.31 NLPi:    2 Dpth:  433 Lvs:  730 Obj:  3.65E+00 Gap:       NaN
+Iter:   480 I:  0 Tm:      0.81 NLPi:    6 Dpth:  433 Lvs:  732 Obj:  3.65E+00 Gap:       NaN
+Iter:   481 I:  0 Tm:      0.60 NLPi:   12 Dpth:  434 Lvs:  732 Obj:  3.65E+00 Gap:       NaN
+Iter:   482 I:-11 Tm:      0.32 NLPi:    2 Dpth:  435 Lvs:  731 Obj:  3.65E+00 Gap:       NaN
+Iter:   483 I:  0 Tm:      0.55 NLPi:    9 Dpth:  434 Lvs:  730 Obj:  3.65E+00 Gap:       NaN
+Iter:   484 I:  0 Tm:      1.20 NLPi:   11 Dpth:  434 Lvs:  732 Obj:  3.65E+00 Gap:       NaN
+Iter:   485 I:  0 Tm:      1.15 NLPi:   12 Dpth:  435 Lvs:  734 Obj:  3.65E+00 Gap:       NaN
+Iter:   486 I:  0 Tm:      0.98 NLPi:    8 Dpth:  436 Lvs:  736 Obj:  3.65E+00 Gap:       NaN
+Iter:   487 I:  0 Tm:      0.53 NLPi:    9 Dpth:  437 Lvs:  738 Obj:  3.65E+00 Gap:       NaN
+Iter:   488 I:-11 Tm:      0.75 NLPi:    2 Dpth:  438 Lvs:  737 Obj:  3.65E+00 Gap:       NaN
+Iter:   489 I:  0 Tm:      1.11 NLPi:    8 Dpth:  438 Lvs:  737 Obj:  3.65E+00 Gap:       NaN
+Iter:   490 I:  0 Tm:      1.01 NLPi:    9 Dpth:  439 Lvs:  739 Obj:  3.65E+00 Gap:       NaN
+Iter:   491 I:  0 Tm:      1.09 NLPi:    5 Dpth:  440 Lvs:  738 Obj:  3.65E+00 Gap:       NaN
+Iter:   492 I:  0 Tm:      0.88 NLPi:    4 Dpth:  440 Lvs:  740 Obj:  3.65E+00 Gap:       NaN
+Iter:   493 I:  0 Tm:      0.64 NLPi:    8 Dpth:  441 Lvs:  742 Obj:  3.65E+00 Gap:       NaN
+Iter:   494 I:  0 Tm:      1.08 NLPi:    7 Dpth:  442 Lvs:  744 Obj:  3.65E+00 Gap:       NaN
+Iter:   495 I:  0 Tm:      0.50 NLPi:    6 Dpth:  443 Lvs:  745 Obj:  3.65E+00 Gap:       NaN
+Iter:   496 I:  0 Tm:      1.24 NLPi:   10 Dpth:  444 Lvs:  746 Obj:  3.65E+00 Gap:       NaN
+Iter:   497 I:-11 Tm:      0.47 NLPi:    2 Dpth:  445 Lvs:  745 Obj:  3.65E+00 Gap:       NaN
+Iter:   498 I:  0 Tm:      1.70 NLPi:    6 Dpth:  445 Lvs:  747 Obj:  3.65E+00 Gap:       NaN
+Iter:   499 I:  0 Tm:      1.58 NLPi:   13 Dpth:  446 Lvs:  747 Obj:  3.65E+00 Gap:       NaN
+Iter:   500 I:  0 Tm:      1.38 NLPi:    6 Dpth:  447 Lvs:  749 Obj:  3.65E+00 Gap:       NaN
+Iter:   501 I:-11 Tm:      0.94 NLPi:    2 Dpth:  448 Lvs:  748 Obj:  3.65E+00 Gap:       NaN
+Iter:   502 I:  0 Tm:      0.87 NLPi:    4 Dpth:  448 Lvs:  750 Obj:  3.65E+00 Gap:       NaN
+Iter:   503 I:  0 Tm:      0.45 NLPi:    6 Dpth:  449 Lvs:  751 Obj:  3.65E+00 Gap:       NaN
+Iter:   504 I:  0 Tm:      0.58 NLPi:   10 Dpth:  450 Lvs:  752 Obj:  3.65E+00 Gap:       NaN
+Iter:   505 I:  0 Tm:      0.64 NLPi:   12 Dpth:  451 Lvs:  752 Obj:  3.65E+00 Gap:       NaN
+Iter:   506 I:  0 Tm:      0.93 NLPi:    6 Dpth:  452 Lvs:  754 Obj:  3.65E+00 Gap:       NaN
+Iter:   507 I:  0 Tm:      1.06 NLPi:   10 Dpth:  453 Lvs:  754 Obj:  3.65E+00 Gap:       NaN
+Iter:   508 I:  0 Tm:      0.93 NLPi:    6 Dpth:  454 Lvs:  756 Obj:  3.65E+00 Gap:       NaN
+Iter:   509 I:  0 Tm:      0.49 NLPi:    6 Dpth:  455 Lvs:  757 Obj:  3.65E+00 Gap:       NaN
+Iter:   510 I:  0 Tm:      0.94 NLPi:    6 Dpth:  456 Lvs:  758 Obj:  3.65E+00 Gap:       NaN
+Iter:   511 I:  0 Tm:      0.50 NLPi:    8 Dpth:  457 Lvs:  759 Obj:  3.65E+00 Gap:       NaN
+Iter:   512 I:  0 Tm:      0.92 NLPi:    6 Dpth:  458 Lvs:  760 Obj:  3.65E+00 Gap:       NaN
+Iter:   513 I:  0 Tm:      1.17 NLPi:    9 Dpth:  459 Lvs:  761 Obj:  3.65E+00 Gap:       NaN
+Iter:   514 I:  0 Tm:      1.00 NLPi:    7 Dpth:  460 Lvs:  763 Obj:  3.65E+00 Gap:       NaN
+Iter:   515 I:-11 Tm:      0.35 NLPi:    2 Dpth:  461 Lvs:  762 Obj:  3.65E+00 Gap:       NaN
+Iter:   516 I:-11 Tm:      0.34 NLPi:    2 Dpth:  461 Lvs:  761 Obj:  3.65E+00 Gap:       NaN
+Iter:   517 I:  0 Tm:      0.40 NLPi:    4 Dpth:  461 Lvs:  763 Obj:  3.65E+00 Gap:       NaN
+Iter:   518 I:  0 Tm:      0.52 NLPi:    9 Dpth:  462 Lvs:  765 Obj:  3.65E+00 Gap:       NaN
+Iter:   519 I:  0 Tm:      1.01 NLPi:   13 Dpth:  463 Lvs:  767 Obj:  3.65E+00 Gap:       NaN
+Iter:   520 I:  0 Tm:      0.57 NLPi:   10 Dpth:  464 Lvs:  768 Obj:  3.65E+00 Gap:       NaN
+Iter:   521 I:  0 Tm:      0.92 NLPi:    6 Dpth:  465 Lvs:  769 Obj:  3.65E+00 Gap:       NaN
+Iter:   522 I:  0 Tm:      0.97 NLPi:    6 Dpth:  466 Lvs:  771 Obj:  3.65E+00 Gap:       NaN
+Iter:   523 I:  0 Tm:      0.94 NLPi:    7 Dpth:  467 Lvs:  771 Obj:  3.65E+00 Gap:       NaN
+Iter:   524 I:  0 Tm:      1.16 NLPi:    4 Dpth:  468 Lvs:  772 Obj:  3.65E+00 Gap:       NaN
+Iter:   525 I:  0 Tm:      1.21 NLPi:    9 Dpth:  469 Lvs:  774 Obj:  3.65E+00 Gap:       NaN
+Iter:   526 I:  0 Tm:      0.72 NLPi:   15 Dpth:  470 Lvs:  776 Obj:  3.65E+00 Gap:       NaN
+Iter:   527 I:  0 Tm:      1.05 NLPi:    9 Dpth:  471 Lvs:  775 Obj:  3.65E+00 Gap:       NaN
+Iter:   528 I:  0 Tm:      1.07 NLPi:   12 Dpth:  471 Lvs:  776 Obj:  3.65E+00 Gap:       NaN
+Iter:   529 I:  0 Tm:      0.94 NLPi:    9 Dpth:  472 Lvs:  777 Obj:  3.65E+00 Gap:       NaN
+Iter:   530 I:  0 Tm:      1.25 NLPi:   10 Dpth:  473 Lvs:  778 Obj:  3.65E+00 Gap:       NaN
+Iter:   531 I:  0 Tm:      0.49 NLPi:    6 Dpth:  474 Lvs:  779 Obj:  3.65E+00 Gap:       NaN
+Iter:   532 I:  0 Tm:      0.90 NLPi:    6 Dpth:  475 Lvs:  781 Obj:  3.65E+00 Gap:       NaN
+Iter:   533 I:  0 Tm:      0.57 NLPi:   10 Dpth:  476 Lvs:  783 Obj:  3.65E+00 Gap:       NaN
+Iter:   534 I:  0 Tm:      1.08 NLPi:   11 Dpth:  477 Lvs:  782 Obj:  3.65E+00 Gap:       NaN
+Iter:   535 I:  0 Tm:      1.07 NLPi:   10 Dpth:  477 Lvs:  784 Obj:  3.65E+00 Gap:       NaN
+Iter:   536 I:  0 Tm:      1.04 NLPi:   10 Dpth:  478 Lvs:  786 Obj:  3.65E+00 Gap:       NaN
+Iter:   537 I:  0 Tm:      1.24 NLPi:    8 Dpth:  479 Lvs:  788 Obj:  3.65E+00 Gap:       NaN
+Iter:   538 I:  0 Tm:      0.47 NLPi:    6 Dpth:  480 Lvs:  789 Obj:  3.65E+00 Gap:       NaN
+Iter:   539 I:  0 Tm:      1.07 NLPi:   27 Dpth:  481 Lvs:  789 Obj:  3.65E+00 Gap:       NaN
+Iter:   540 I:  0 Tm:      0.97 NLPi:    4 Dpth:  482 Lvs:  790 Obj:  3.65E+00 Gap:       NaN
+Iter:   541 I:  0 Tm:      0.46 NLPi:    6 Dpth:  483 Lvs:  792 Obj:  3.65E+00 Gap:       NaN
+Iter:   542 I:  0 Tm:      0.92 NLPi:    7 Dpth:  484 Lvs:  793 Obj:  3.65E+00 Gap:       NaN
+Iter:   543 I:  0 Tm:      1.63 NLPi:   17 Dpth:  485 Lvs:  795 Obj:  3.65E+00 Gap:       NaN
+Iter:   544 I:  0 Tm:      1.00 NLPi:    6 Dpth:  486 Lvs:  796 Obj:  3.65E+00 Gap:       NaN
+Iter:   545 I:  0 Tm:      1.04 NLPi:    6 Dpth:  487 Lvs:  798 Obj:  3.65E+00 Gap:       NaN
+Iter:   546 I:-11 Tm:      0.35 NLPi:    2 Dpth:  488 Lvs:  797 Obj:  3.65E+00 Gap:       NaN
+Iter:   547 I:  0 Tm:      1.13 NLPi:    9 Dpth:  488 Lvs:  799 Obj:  3.65E+00 Gap:       NaN
+Iter:   548 I:-11 Tm:      0.36 NLPi:    2 Dpth:  489 Lvs:  798 Obj:  3.65E+00 Gap:       NaN
+Iter:   549 I:  0 Tm:      0.99 NLPi:    9 Dpth:  489 Lvs:  800 Obj:  3.65E+00 Gap:       NaN
+Iter:   550 I:  0 Tm:      1.04 NLPi:   10 Dpth:  490 Lvs:  801 Obj:  3.65E+00 Gap:       NaN
+Iter:   551 I:  0 Tm:      1.63 NLPi:   11 Dpth:  491 Lvs:  802 Obj:  3.65E+00 Gap:       NaN
+Iter:   552 I:  0 Tm:      1.76 NLPi:    9 Dpth:  492 Lvs:  803 Obj:  3.65E+00 Gap:       NaN
+Iter:   553 I:  0 Tm:      0.85 NLPi:   15 Dpth:  493 Lvs:  803 Obj:  3.65E+00 Gap:       NaN
+Iter:   554 I:  0 Tm:      1.32 NLPi:    7 Dpth:  494 Lvs:  803 Obj:  3.65E+00 Gap:       NaN
+Iter:   555 I:  0 Tm:      1.08 NLPi:    4 Dpth:  495 Lvs:  805 Obj:  3.65E+00 Gap:       NaN
+Iter:   556 I:  0 Tm:      0.88 NLPi:   10 Dpth:  496 Lvs:  807 Obj:  3.65E+00 Gap:       NaN
+Iter:   557 I:  0 Tm:      1.07 NLPi:    6 Dpth:  497 Lvs:  808 Obj:  3.65E+00 Gap:       NaN
+Iter:   558 I:  0 Tm:      1.11 NLPi:    6 Dpth:  498 Lvs:  810 Obj:  3.65E+00 Gap:       NaN
+Iter:   559 I:  0 Tm:      0.61 NLPi:    9 Dpth:  499 Lvs:  812 Obj:  3.65E+00 Gap:       NaN
+Iter:   560 I:  0 Tm:      0.74 NLPi:   13 Dpth:  500 Lvs:  811 Obj:  3.65E+00 Gap:       NaN
+Iter:   561 I:  0 Tm:      0.67 NLPi:   10 Dpth:  500 Lvs:  812 Obj:  3.65E+00 Gap:       NaN
+Iter:   562 I:  0 Tm:      0.59 NLPi:    8 Dpth:  501 Lvs:  812 Obj:  3.65E+00 Gap:       NaN
+Iter:   563 I:  0 Tm:      1.23 NLPi:    7 Dpth:  502 Lvs:  814 Obj:  3.65E+00 Gap:       NaN
+Iter:   564 I:-11 Tm:      0.66 NLPi:   10 Dpth:  503 Lvs:  813 Obj:  3.65E+00 Gap:       NaN
+Iter:   565 I:  0 Tm:      0.83 NLPi:   14 Dpth:  503 Lvs:  815 Obj:  3.65E+00 Gap:       NaN
+Iter:   566 I:  0 Tm:      0.60 NLPi:    9 Dpth:  504 Lvs:  817 Obj:  3.65E+00 Gap:       NaN
+Iter:   567 I:  0 Tm:      0.47 NLPi:    6 Dpth:  505 Lvs:  819 Obj:  3.65E+00 Gap:       NaN
+Iter:   568 I:  0 Tm:      1.54 NLPi:   11 Dpth:  506 Lvs:  819 Obj:  3.65E+00 Gap:       NaN
+Iter:   569 I:  0 Tm:      1.06 NLPi:    8 Dpth:  507 Lvs:  821 Obj:  3.65E+00 Gap:       NaN
+Iter:   570 I:  0 Tm:      1.14 NLPi:    6 Dpth:  508 Lvs:  821 Obj:  3.65E+00 Gap:       NaN
+Iter:   571 I:  0 Tm:      1.67 NLPi:   17 Dpth:  509 Lvs:  821 Obj:  3.65E+00 Gap:       NaN
+Iter:   572 I:  0 Tm:      1.09 NLPi:    7 Dpth:  510 Lvs:  823 Obj:  3.65E+00 Gap:       NaN
+Iter:   573 I:  0 Tm:      1.00 NLPi:    8 Dpth:  511 Lvs:  824 Obj:  3.65E+00 Gap:       NaN
+Iter:   574 I:  0 Tm:      0.93 NLPi:    6 Dpth:  512 Lvs:  826 Obj:  3.65E+00 Gap:       NaN
+Iter:   575 I:  0 Tm:      1.07 NLPi:    8 Dpth:  513 Lvs:  828 Obj:  3.65E+00 Gap:       NaN
+Iter:   576 I:  0 Tm:      0.92 NLPi:   15 Dpth:  514 Lvs:  829 Obj:  3.65E+00 Gap:       NaN
+Iter:   577 I:  0 Tm:      1.35 NLPi:   12 Dpth:  515 Lvs:  831 Obj:  3.65E+00 Gap:       NaN
+Iter:   578 I:  0 Tm:      0.66 NLPi:   10 Dpth:  516 Lvs:  833 Obj:  3.65E+00 Gap:       NaN
+Iter:   579 I:  0 Tm:      1.07 NLPi:    8 Dpth:  517 Lvs:  834 Obj:  3.65E+00 Gap:       NaN
+Iter:   580 I:  0 Tm:      1.32 NLPi:    7 Dpth:  518 Lvs:  836 Obj:  3.65E+00 Gap:       NaN
+Iter:   581 I:  0 Tm:      0.60 NLPi:    9 Dpth:  519 Lvs:  838 Obj:  3.65E+00 Gap:       NaN
+Iter:   582 I:  0 Tm:      1.05 NLPi:    6 Dpth:  520 Lvs:  837 Obj:  3.65E+00 Gap:       NaN
+Iter:   583 I:  0 Tm:      0.92 NLPi:    6 Dpth:  520 Lvs:  839 Obj:  3.65E+00 Gap:       NaN
+Iter:   584 I:  0 Tm:      0.79 NLPi:   15 Dpth:  521 Lvs:  841 Obj:  3.65E+00 Gap:       NaN
+Iter:   585 I:  0 Tm:      0.52 NLPi:    7 Dpth:  522 Lvs:  843 Obj:  3.65E+00 Gap:       NaN
+Iter:   586 I:  0 Tm:      0.44 NLPi:    6 Dpth:  523 Lvs:  843 Obj:  3.65E+00 Gap:       NaN
+Iter:   587 I:  0 Tm:      0.52 NLPi:    6 Dpth:  524 Lvs:  845 Obj:  3.65E+00 Gap:       NaN
+Iter:   588 I:-11 Tm:      0.35 NLPi:    2 Dpth:  525 Lvs:  844 Obj:  3.65E+00 Gap:       NaN
+Iter:   589 I:-11 Tm:      0.32 NLPi:    2 Dpth:  525 Lvs:  843 Obj:  3.65E+00 Gap:       NaN
+Iter:   590 I:-11 Tm:      1.31 NLPi:   14 Dpth:  525 Lvs:  842 Obj:  3.65E+00 Gap:       NaN
+Iter:   591 I:  0 Tm:      0.93 NLPi:    6 Dpth:  523 Lvs:  844 Obj:  3.65E+00 Gap:       NaN
+Iter:   592 I:  0 Tm:      0.95 NLPi:    6 Dpth:  524 Lvs:  845 Obj:  3.65E+00 Gap:       NaN
+Iter:   593 I:  0 Tm:      1.01 NLPi:    6 Dpth:  525 Lvs:  846 Obj:  3.65E+00 Gap:       NaN
+Iter:   594 I:  0 Tm:      0.92 NLPi:    6 Dpth:  526 Lvs:  848 Obj:  3.65E+00 Gap:       NaN
+Iter:   595 I:  0 Tm:      0.51 NLPi:    9 Dpth:  527 Lvs:  850 Obj:  3.65E+00 Gap:       NaN
+Iter:   596 I:  0 Tm:      0.90 NLPi:    7 Dpth:  528 Lvs:  851 Obj:  3.65E+00 Gap:       NaN
+Iter:   597 I:  0 Tm:      0.45 NLPi:    7 Dpth:  529 Lvs:  851 Obj:  3.65E+00 Gap:       NaN
+Iter:   598 I:  0 Tm:      0.90 NLPi:    6 Dpth:  530 Lvs:  853 Obj:  3.65E+00 Gap:       NaN
+Iter:   599 I:  0 Tm:      1.18 NLPi:   15 Dpth:  531 Lvs:  855 Obj:  3.65E+00 Gap:       NaN
+Iter:   600 I:  0 Tm:      0.87 NLPi:   21 Dpth:  532 Lvs:  856 Obj:  3.65E+00 Gap:       NaN
+Iter:   601 I:  0 Tm:      0.88 NLPi:    4 Dpth:  533 Lvs:  857 Obj:  3.65E+00 Gap:       NaN
+Iter:   602 I:  0 Tm:      0.49 NLPi:    8 Dpth:  534 Lvs:  859 Obj:  3.65E+00 Gap:       NaN
+Iter:   603 I:  0 Tm:      0.44 NLPi:    6 Dpth:  535 Lvs:  860 Obj:  3.65E+00 Gap:       NaN
+Iter:   604 I:  0 Tm:      0.83 NLPi:    6 Dpth:  536 Lvs:  861 Obj:  3.65E+00 Gap:       NaN
+Iter:   605 I:  0 Tm:      1.17 NLPi:   12 Dpth:  537 Lvs:  863 Obj:  3.65E+00 Gap:       NaN
+Iter:   606 I:  0 Tm:      0.53 NLPi:    9 Dpth:  538 Lvs:  864 Obj:  3.65E+00 Gap:       NaN
+Iter:   607 I:  0 Tm:      0.95 NLPi:    8 Dpth:  539 Lvs:  864 Obj:  3.65E+00 Gap:       NaN
+Iter:   608 I:  0 Tm:      0.46 NLPi:    7 Dpth:  540 Lvs:  866 Obj:  3.65E+00 Gap:       NaN
+Iter:   609 I:  0 Tm:      1.10 NLPi:   11 Dpth:  541 Lvs:  867 Obj:  3.65E+00 Gap:       NaN
+Iter:   610 I:-11 Tm:      0.31 NLPi:    2 Dpth:  542 Lvs:  866 Obj:  3.65E+00 Gap:       NaN
+Iter:   611 I:  0 Tm:      0.87 NLPi:    6 Dpth:  542 Lvs:  868 Obj:  3.65E+00 Gap:       NaN
+Iter:   612 I:  0 Tm:      0.60 NLPi:   11 Dpth:  543 Lvs:  869 Obj:  3.65E+00 Gap:       NaN
+Iter:   613 I:  0 Tm:      1.37 NLPi:   18 Dpth:  544 Lvs:  870 Obj:  3.65E+00 Gap:       NaN
+Iter:   614 I:  0 Tm:      0.53 NLPi:   10 Dpth:  545 Lvs:  871 Obj:  3.65E+00 Gap:       NaN
+Iter:   615 I:  0 Tm:      0.95 NLPi:    6 Dpth:  546 Lvs:  873 Obj:  3.65E+00 Gap:       NaN
+Iter:   616 I:  0 Tm:      0.83 NLPi:   18 Dpth:  547 Lvs:  874 Obj:  3.65E+00 Gap:       NaN
+Iter:   617 I:  0 Tm:      0.58 NLPi:   11 Dpth:  548 Lvs:  875 Obj:  3.65E+00 Gap:       NaN
+Iter:   618 I:  0 Tm:      0.94 NLPi:    8 Dpth:  549 Lvs:  876 Obj:  3.65E+00 Gap:       NaN
+Iter:   619 I:  0 Tm:      1.21 NLPi:    8 Dpth:  550 Lvs:  877 Obj:  3.65E+00 Gap:       NaN
+Iter:   620 I:  0 Tm:      1.24 NLPi:   16 Dpth:  551 Lvs:  879 Obj:  3.65E+00 Gap:       NaN
+Iter:   621 I:  0 Tm:      0.42 NLPi:    6 Dpth:  552 Lvs:  880 Obj:  3.65E+00 Gap:       NaN
+Iter:   622 I:  0 Tm:      0.52 NLPi:    9 Dpth:  553 Lvs:  882 Obj:  3.65E+00 Gap:       NaN
+Iter:   623 I:  0 Tm:      0.47 NLPi:    7 Dpth:  554 Lvs:  883 Obj:  3.65E+00 Gap:       NaN
+Iter:   624 I:  0 Tm:      2.70 NLPi:   20 Dpth:  555 Lvs:  884 Obj:  3.65E+00 Gap:       NaN
+Iter:   625 I:  0 Tm:      1.61 NLPi:    6 Dpth:  556 Lvs:  885 Obj:  3.65E+00 Gap:       NaN
+--Integer Solution:   3.65E+00 Lowest Leaf:   3.41E+00 Gap:   6.89E-02
+Iter:   626 I:  0 Tm:      1.34 NLPi:    8 Dpth:  557 Lvs:  885 Obj:  3.65E+00 Gap:  6.89E-02
+ Successful solution
+
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :  800.7288 sec
+ Objective      :  3.654685391124748
+ Successful solution
+ ---------------------------------------------------
