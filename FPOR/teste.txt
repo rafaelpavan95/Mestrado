@@ -1,0 +1,197 @@
+array([ 1.04083778e+00,  9.94910941e-01,  1.03132834e+00,  1.01780391e+00,
+        1.04503272e+00,  1.03073841e+00,  1.01604276e+00,  1.01079476e+00,
+        1.01612584e+00,  1.00965219e+00,  1.03101185e+00,  1.05064653e+00,
+        1.01814195e+00,  1.02611757e+00,  1.01965687e+00,  1.02016932e+00,
+        1.00948737e+00,  1.00446495e+00,  1.01370961e+00,  1.00702193e+00,
+        1.01934783e+00,  1.03101683e+00,  1.01779276e+00,  1.01145621e+00,
+        1.01295120e+00,  1.01307322e+00,  1.03259032e+00,  1.02613236e+00,
+        1.04367038e+00,  1.04132320e+00,  1.01353200e+00,  1.01137317e+00,
+        1.02612711e+00,  9.84558725e-01,  9.75014063e-01,  1.02135444e+00,
+        1.04425937e+00,  1.00888722e+00,  1.02619399e+00,  1.02367746e+00,
+        1.01737525e+00,  1.02072153e+00,  1.01591746e+00,  1.02568084e+00,
+        1.03265213e+00,  1.02600134e+00,  1.01494498e+00,  1.01471546e+00,
+        1.01984709e+00,  1.01698324e+00,  1.02664647e+00,  1.01192619e+00,
+        1.02314821e+00,  1.02671221e+00,  1.00000000e+00,  1.02000000e+00,
+        9.90000000e-01,  1.01000000e+00,  1.01000000e+00,  1.01000000e+00,
+        1.01000000e+00,  9.80000000e-01,  1.00000000e+00, -2.30000000e-01,
+        8.00000000e-02, -1.70000000e-01,  4.00000000e-02,  4.00000000e-02,
+        6.00000000e-02,  9.00000000e-02,  5.00000000e-02,  1.30000000e-01,
+        1.10000000e-01,  4.00000000e-02,  1.30000000e-01,  3.00000000e-02,
+        4.00000000e-02,  1.23480281e+00,  0.00000000e+00,  0.00000000e+00,
+        1.03340895e-26,  1.25872203e-26,  1.23480281e+00])
+
+
+
+array([ 1.04959220e+00,  1.00128193e+00,  1.03563963e+00,  1.02378426e+00,
+        1.04144151e+00,  1.03494402e+00,  1.02146341e+00,  1.01385097e+00,
+        1.01669857e+00,  1.01111348e+00,  1.02975400e+00,  1.04234177e+00,
+        1.05012833e+00,  1.01430195e+00,  1.01004812e+00,  1.01412810e+00,
+        1.02791708e+00,  1.02339222e+00,  1.02510518e+00,  1.02111532e+00,
+        1.01784678e+00,  1.04082500e+00,  1.02970400e+00,  1.02188540e+00,
+        1.02449358e+00,  1.02978848e+00,  1.02485321e+00,  1.02279132e+00,
+        1.04738904e+00,  1.04699662e+00,  1.01847160e+00,  1.02795239e+00,
+        1.02169180e+00,  9.91659599e-01,  9.77055116e-01,  1.01692551e+00,
+        1.03084372e+00,  1.02412327e+00,  1.04118661e+00,  1.03817046e+00,
+        1.01804405e+00,  1.02199243e+00,  1.02392294e+00,  1.02704169e+00,
+        1.03297820e+00,  1.02312783e+00,  1.01490697e+00,  1.01407891e+00,
+        1.01354103e+00,  1.01883637e+00,  1.03225841e+00,  1.01203296e+00,
+        1.02629966e+00,  1.02364244e+00,  9.90000000e-01,  1.02000000e+00,
+        1.01000000e+00,  9.90000000e-01,  1.02000000e+00,  1.02000000e+00,
+        1.00000000e+00,  1.01000000e+00,  9.90000000e-01, -2.10000000e-01,
+        8.00000000e-02, -1.00000000e-01,  5.00000000e-02,  6.00000000e-02,
+        6.00000000e-02,  7.00000000e-02,  6.00000000e-02,  9.00000000e-02,
+        1.80000000e-01,  4.00000000e-02,  1.20000000e-01,  3.00000000e-02,
+        5.00000000e-02,  1.20949774e+00,  0.00000000e+00,  0.00000000e+00,
+        6.25649378e-27,  1.44257101e-26,  1.20949774e+00])
+
+
+
+Perdas de Potência Ativa [PU]:
+
+1.2025264369335318
+ 
+Penalização de Violação de Tensão [PU]:
+
+0.0
+ 
+Penalização de Violação de Geração de Reativo [PU]:
+
+0.0
+ 
+Penalização de Violação de TAP Discreto [PU]:
+
+1.0347941197544703e-26
+ 
+Penalização de Violação de Bshunt Discreto [PU]:
+
+1.2681009135005791e-26
+ 
+c:\Users\Rafael Pavan\Desktop\Mestrado\FPOR\optimizers\SQP_BB.py:207: FutureWarning: Index.ravel returning ndarray is deprecated; in a future version this will return a view on self.
+  for i in range(len(sep_modelo.line.index.ravel())):
+c:\Users\Rafael Pavan\Desktop\Mestrado\FPOR\optimizers\SQP_BB.py:436: FutureWarning: Index.ravel returning ndarray is deprecated; in a future version this will return a view on self.
+  for i in range(len(sep_modelo.line.index.ravel())):
+Output exceeds the size limit. Open the full output data in a text editor
+apm 187.116.64.219_gk_model14 <br><pre> ----------------------------------------------------------------
+ APMonitor, Version 1.0.1
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :            1
+   Constants    :            0
+   Variables    :          500
+   Intermediates:            0
+   Connections  :          187
+   Equations    :          423
+   Residuals    :          423
+ 
+ Number of state variables:            500
+ Number of total equations: -          423
+ Number of slack variables: -            0
+ ---------------------------------------
+ Degrees of freedom       :             77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+...
+ Objective      :    1.15376167491119     
+ Successful solution
+ ---------------------------------------------------
+ 
+Output exceeds the size limit. Open the full output data in a text editor
+{'system': This pandapower network includes the following parameter tables:
+    - bus (118 elements)
+    - load (99 elements)
+    - gen (53 elements)
+    - shunt (14 elements)
+    - ext_grid (1 element)
+    - line (173 elements)
+    - trafo (13 elements)
+    - poly_cost (54 elements)
+    - bus_geodata (118 elements)
+  and the following results tables:
+    - res_bus (118 elements)
+    - res_line (173 elements)
+    - res_trafo (13 elements)
+    - res_ext_grid (1 element)
+    - res_load (99 elements)
+    - res_shunt (14 elements)
+    - res_gen (53 elements),
+ 'voltages': [1.0278123659,
+  1.0357430512,
+  1.0351398876,
+  1.0588941558,
+  1.06,
+  1.0514278225,
+  1.0496825852,
+...
+  0.64295769214,
+  0.0,
+  0.0],
+ 'objective_function': 1.1537616749,
+ 'iterations': 120}
+c:\Users\Rafael Pavan\Desktop\Mestrado\FPOR\resources\msc_rafael_pavan.py:116: FutureWarning: Index.ravel returning ndarray is deprecated; in a future version this will return a view on self.
+  matriz_z = np.zeros((9,len(sep.line.index.ravel())),dtype=np.float64)
+c:\Users\Rafael Pavan\Desktop\Mestrado\FPOR\resources\msc_rafael_pavan.py:120: FutureWarning: Index.ravel returning ndarray is deprecated; in a future version this will return a view on self.
+  g = np.zeros(len(sep.line.index.ravel()),dtype=np.float64)
+c:\Users\Rafael Pavan\Desktop\Mestrado\FPOR\resources\msc_rafael_pavan.py:129: FutureWarning: Index.ravel returning ndarray is deprecated; in a future version this will return a view on self.
+  for i in range(len(sep.line.index.ravel())):
+c:\Users\Rafael Pavan\Desktop\Mestrado\FPOR\resources\msc_rafael_pavan.py:165: FutureWarning: Index.ravel returning ndarray is deprecated; in a future version this will return a view on self.
+  for posicao in range(len(sep.line.index.ravel())):
+Output exceeds the size limit. Open the full output data in a text editor
+ 
+Melhor Global da Iteração: 0
+Perdas (pu): 1.7472654635098743
+Penalização de Tensão: 0.0
+Penalização de Geração de Reativo: 33.43088932717946
+Fitness: 3.4188099298688472
+Tempo:  1.0050499439239502
+ 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+ 
+Melhor Global da Iteração: 1
+Perdas (pu): 1.7546421641471934
+Penalização de Tensão: 0.007708553813497887
+Penalização de Geração de Reativo: 31.788480530443255
+Fitness: 3.3517747444828543
+Tempo:  1.0227789878845215
+ 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+ 
+Melhor Global da Iteração: 2
+Perdas (pu): 1.629076020530156
+Penalização de Tensão: 0.0007626662220248104
+Penalização de Geração de Reativo: 26.296966611494014
+Fitness: 2.9446870173268813
+Tempo:  1.0198428630828857
+...
+Fitness: 1.2025264369296644
+Tempo:  0.9640171527862549
+ 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+248.0894272327423
+array([ 1.05761963e+00,  1.00354609e+00,  1.03924697e+00,  1.02786373e+00,
+        1.04344849e+00,  1.03805924e+00,  1.02347886e+00,  1.01129065e+00,
+        1.01304689e+00,  1.00865787e+00,  1.00358529e+00,  1.04808818e+00,
+        1.05870289e+00,  1.01155069e+00,  1.00811816e+00,  1.00808031e+00,
+        1.02496944e+00,  1.02251866e+00,  1.01536324e+00,  1.02227800e+00,
+        1.02187563e+00,  1.04327330e+00,  1.03143597e+00,  1.02542338e+00,
+        1.02678011e+00,  1.03702605e+00,  1.02916743e+00,  1.02305725e+00,
+        1.04965367e+00,  1.05104186e+00,  1.02137818e+00,  1.01349245e+00,
+        1.02757595e+00,  9.96228837e-01,  9.80399209e-01,  1.01872228e+00,
+        1.03109545e+00,  1.02658773e+00,  1.03405093e+00,  1.04358873e+00,
+        1.02578358e+00,  1.02336325e+00,  1.02694530e+00,  1.02325583e+00,
+        1.03414684e+00,  1.02897255e+00,  1.01383806e+00,  1.01323890e+00,
+        1.01376649e+00,  1.01804936e+00,  1.03227908e+00,  1.00915592e+00,
+        1.02276262e+00,  1.02227849e+00,  9.90000000e-01,  1.04000000e+00,
+        1.01000000e+00,  1.00000000e+00,  1.00000000e+00,  1.03000000e+00,
+        1.02000000e+00,  9.60000000e-01,  9.90000000e-01, -2.10000000e-01,
+        8.00000000e-02, -1.30000000e-01,  6.00000000e-02,  5.00000000e-02,
+        4.00000000e-02,  8.00000000e-02,  7.00000000e-02,  1.30000000e-01,
+        1.40000000e-01,  5.00000000e-02,  1.00000000e-01,  2.00000000e-02,
+        2.00000000e-02,  1.20252644e+00,  0.00000000e+00,  0.00000000e+00,
+        1.03479412e-26,  1.26810091e-26,  1.20252644e+00])
+

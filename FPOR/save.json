@@ -1,0 +1,88 @@
+Perdas de Potência Ativa [PU]:
+
+1.891386859925589
+ 
+Penalização de Violação de Tensão [PU]:
+
+0.0
+ 
+Penalização de Violação de Geração de Reativo [PU]:
+
+37.55406018349498
+ 
+Penalização de Violação de TAP Discreto [PU]:
+
+1.0577011983727398e-26
+ 
+Penalização de Violação de Bshunt Discreto [PU]:
+
+2.5621583799042526e-26
+ 
+apm 187.116.64.219_gk_model18 <br><pre> ----------------------------------------------------------------
+ APMonitor, Version 1.0.1
+ APMonitor Optimization Suite
+ ----------------------------------------------------------------
+ 
+ 
+ --------- APM Model Size ------------
+ Each time step contains
+   Objects      :            1
+   Constants    :            0
+   Variables    :          500
+   Intermediates:            0
+   Connections  :          187
+   Equations    :          423
+   Residuals    :          423
+ 
+ Number of state variables:            500
+ Number of total equations: -          423
+ Number of slack variables: -            0
+ ---------------------------------------
+ Degrees of freedom       :             77
+ 
+ ----------------------------------------------
+ Steady State Optimization with APOPT Solver
+ ----------------------------------------------
+Iter:     1 I:  0 Tm:      4.68 NLPi:  138 Dpth:    0 Lvs:    3 Obj:  1.16E+00 Gap:       NaN
+Iter:     2 I:  0 Tm:      1.48 NLPi:   69 Dpth:    1 Lvs:    4 Obj:  1.16E+00 Gap:       NaN
+Iter:     3 I:  0 Tm:      1.43 NLPi:   67 Dpth:    1 Lvs:    6 Obj:  1.16E+00 Gap:       NaN
+Iter:     4 I:  0 Tm:      1.15 NLPi:   53 Dpth:    1 Lvs:    7 Obj:  1.16E+00 Gap:       NaN
+Iter:     5 I:  0 Tm:      2.96 NLPi:  137 Dpth:    2 Lvs:    9 Obj:  1.16E+00 Gap:       NaN
+Iter:     6 I:-11 Tm:      3.71 NLPi:  169 Dpth:    2 Lvs:    8 Obj:  1.16E+00 Gap:       NaN
+Iter:     7 I:  0 Tm:      0.67 NLPi:   32 Dpth:    2 Lvs:    8 Obj:  1.16E+00 Gap:       NaN
+Iter:     8 I:  0 Tm:      2.92 NLPi:  135 Dpth:    2 Lvs:   10 Obj:  1.16E+00 Gap:       NaN
+Iter:     9 I:  0 Tm:      1.18 NLPi:   56 Dpth:    2 Lvs:   12 Obj:  1.16E+00 Gap:       NaN
+Iter:    10 I:  0 Tm:      1.67 NLPi:   80 Dpth:    3 Lvs:   14 Obj:  1.16E+00 Gap:       NaN
+Iter:    11 I:  0 Tm:      0.96 NLPi:   45 Dpth:    3 Lvs:   16 Obj:  1.16E+00 Gap:       NaN
+Iter:    12 I:  0 Tm:      1.91 NLPi:   88 Dpth:    3 Lvs:   18 Obj:  1.16E+00 Gap:       NaN
+Iter:    13 I:  0 Tm:      0.79 NLPi:   37 Dpth:    4 Lvs:   19 Obj:  1.16E+00 Gap:       NaN
+Iter:    14 I:  0 Tm:      0.78 NLPi:   37 Dpth:    4 Lvs:   21 Obj:  1.16E+00 Gap:       NaN
+Iter:    15 I:  0 Tm:      0.52 NLPi:   24 Dpth:    4 Lvs:   23 Obj:  1.16E+00 Gap:       NaN
+Iter:    16 I:  0 Tm:      2.27 NLPi:  109 Dpth:    4 Lvs:   24 Obj:  1.16E+00 Gap:       NaN
+Iter:    17 I:  0 Tm:      0.67 NLPi:   32 Dpth:    4 Lvs:   26 Obj:  1.16E+00 Gap:       NaN
+Iter:    18 I:  0 Tm:      2.55 NLPi:  121 Dpth:    4 Lvs:   28 Obj:  1.16E+00 Gap:       NaN
+Iter:    19 I:  0 Tm:      2.39 NLPi:  112 Dpth:    5 Lvs:   29 Obj:  1.16E+00 Gap:       NaN
+Iter:    20 I:  0 Tm:      0.62 NLPi:   29 Dpth:    6 Lvs:   30 Obj:  1.16E+00 Gap:       NaN
+Iter:    21 I:  0 Tm:      0.31 NLPi:   14 Dpth:    6 Lvs:   31 Obj:  1.16E+00 Gap:       NaN
+Iter:    22 I:  0 Tm:      1.27 NLPi:   60 Dpth:    5 Lvs:   33 Obj:  1.16E+00 Gap:       NaN
+Iter:    23 I:  0 Tm:      0.82 NLPi:   39 Dpth:    5 Lvs:   35 Obj:  1.16E+00 Gap:       NaN
+Iter:    24 I:  0 Tm:      2.22 NLPi:  106 Dpth:    6 Lvs:   36 Obj:  1.16E+00 Gap:       NaN
+Iter:    25 I:  0 Tm:      1.16 NLPi:   55 Dpth:    7 Lvs:   37 Obj:  1.16E+00 Gap:       NaN
+Iter:    26 I:-11 Tm:      0.60 NLPi:   28 Dpth:    7 Lvs:   36 Obj:  1.16E+00 Gap:       NaN
+Iter:    27 I:  0 Tm:      1.11 NLPi:   50 Dpth:    6 Lvs:   38 Obj:  1.16E+00 Gap:       NaN
+Iter:    28 I:  0 Tm:      0.98 NLPi:   48 Dpth:    6 Lvs:   40 Obj:  1.16E+00 Gap:       NaN
+Iter:    29 I:  0 Tm:      1.58 NLPi:   72 Dpth:    5 Lvs:   40 Obj:  1.16E+00 Gap:       NaN
+Iter:    30 I:  0 Tm:      0.33 NLPi:   15 Dpth:    6 Lvs:   41 Obj:  1.16E+00 Gap:       NaN
+Iter:    31 I:  0 Tm:      2.14 NLPi:   99 Dpth:    5 Lvs:   43 Obj:  1.16E+00 Gap:       NaN
+Iter:    32 I:-11 Tm:      2.38 NLPi:  110 Dpth:    5 Lvs:   42 Obj:  1.16E+00 Gap:       NaN
+--Integer Solution:   1.16E+00 Lowest Leaf:   1.16E+00 Gap:   7.14E-07
+Iter:    33 I:  0 Tm:      0.42 NLPi:   20 Dpth:    7 Lvs:   42 Obj:  1.16E+00 Gap:  7.14E-07
+ Successful solution
+ 
+ ---------------------------------------------------
+ Solver         :  APOPT (v1.0)
+ Solution time  :    50.6270000000077      sec
+ Objective      :    1.15794415854454     
+ Successful solution
+ ---------------------------------------------------
+ 
